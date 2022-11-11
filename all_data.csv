@@ -1,0 +1,1274 @@
+Country,Address,mts2,mts2_house,Bathrooms,Bedrooms,Price
+Godoy Cruz,Mendoza,200.0,112.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,277.0,347.0,4.0,5.0,140000.0
+Godoy Cruz,Mendoza,282.0,186.0,3.0,3.0,116000.0
+Godoy Cruz,Mendoza,112.0,76.0,1.0,2.0,73000.0
+Godoy Cruz,Mendoza,197.0,151.0,2.0,3.0,90000.0
+Godoy Cruz,Mendoza,163.0,264.0,3.0,4.0,153000.0
+Godoy Cruz,Mendoza,270.0,250.0,4.0,5.0,230000.0
+Godoy Cruz,Mendoza,524.0,213.0,1.0,2.0,76000.0
+Godoy Cruz,Mendoza,200.0,155.0,2.0,4.0,86000.0
+Godoy Cruz,Mendoza,473.0,193.0,2.0,4.0,135000.0
+Godoy Cruz,Mendoza,275.0,109.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,254.0,134.0,1.0,2.0,45000.0
+Godoy Cruz,Mendoza,187.0,220.0,2.0,5.0,62000.0
+Godoy Cruz,Mendoza,1290.0,558.0,5.0,7.0,330000.0
+Godoy Cruz,Mendoza,90.0,142.0,2.0,3.0,96000.0
+Godoy Cruz,Mendoza,260.0,160.0,2.0,4.0,48500.0
+Godoy Cruz,Mendoza,85.0,75.0,1.0,2.0,29000.0
+Godoy Cruz,Mendoza,266.0,91.0,1.0,2.0,90000.0
+Godoy Cruz,Mendoza,420.0,245.0,8.0,4.0,360000.0
+Godoy Cruz,Mendoza,220.0,142.0,1.0,3.0,79000.0
+Godoy Cruz,Mendoza,276.0,207.0,2.0,3.0,92000.0
+Godoy Cruz,Mendoza,238.0,146.0,2.0,3.0,63000.0
+Godoy Cruz,Mendoza,260.0,170.0,3.0,3.0,125000.0
+Godoy Cruz,Mendoza,200.0,53.0,1.0,2.0,27000.0
+Godoy Cruz,Mendoza,220.0,155.0,1.0,3.0,47000.0
+Godoy Cruz,Mendoza,212.0,141.0,2.0,4.0,40000.0
+Godoy Cruz,Mendoza,120.0,150.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,210.0,135.0,2.0,3.0,89000.0
+Godoy Cruz,Mendoza,206.0,140.0,1.0,3.0,38000.0
+Godoy Cruz,Mendoza,495.0,326.0,4.0,5.0,170000.0
+Godoy Cruz,Mendoza,250.0,215.0,3.0,3.0,115000.0
+Godoy Cruz,Mendoza,270.0,250.0,4.0,5.0,230000.0
+Godoy Cruz,Mendoza,232.0,160.0,1.0,2.0,47500.0
+Godoy Cruz,Mendoza,253.0,140.0,3.0,3.0,155000.0
+Godoy Cruz,Mendoza,316.0,118.0,1.0,3.0,70000.0
+Godoy Cruz,Mendoza,102.0,173.0,2.0,3.0,60000.0
+Godoy Cruz,Mendoza,120.0,120.0,1.0,3.0,82000.0
+Godoy Cruz,Mendoza,230.0,175.0,3.0,4.0,155000.0
+Godoy Cruz,Mendoza,420.0,350.0,4.0,4.0,350000.0
+Godoy Cruz,Mendoza,127.0,80.0,2.0,3.0,62000.0
+Godoy Cruz,Mendoza,100.0,150.0,4.0,6.0,150000.0
+Godoy Cruz,Mendoza,220.0,127.0,1.0,2.0,85000.0
+Godoy Cruz,Mendoza,200.0,112.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,277.0,347.0,4.0,5.0,140000.0
+Godoy Cruz,Mendoza,282.0,186.0,3.0,3.0,116000.0
+Godoy Cruz,Mendoza,112.0,76.0,1.0,2.0,73000.0
+Godoy Cruz,Mendoza,197.0,151.0,2.0,3.0,90000.0
+Godoy Cruz,Mendoza,163.0,264.0,3.0,4.0,153000.0
+Godoy Cruz,Mendoza,270.0,250.0,4.0,5.0,230000.0
+Godoy Cruz,Mendoza,524.0,213.0,1.0,2.0,76000.0
+Godoy Cruz,Mendoza,200.0,155.0,2.0,4.0,86000.0
+Godoy Cruz,Mendoza,473.0,193.0,2.0,4.0,135000.0
+Godoy Cruz,Mendoza,275.0,109.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,254.0,134.0,1.0,2.0,45000.0
+Godoy Cruz,Mendoza,187.0,220.0,2.0,5.0,62000.0
+Godoy Cruz,Mendoza,1290.0,558.0,5.0,7.0,330000.0
+Godoy Cruz,Mendoza,90.0,142.0,2.0,3.0,96000.0
+Godoy Cruz,Mendoza,260.0,160.0,2.0,4.0,48500.0
+Godoy Cruz,Mendoza,85.0,75.0,1.0,2.0,29000.0
+Godoy Cruz,Mendoza,266.0,91.0,1.0,2.0,90000.0
+Godoy Cruz,Mendoza,420.0,245.0,8.0,4.0,360000.0
+Godoy Cruz,Mendoza,220.0,142.0,1.0,3.0,79000.0
+Godoy Cruz,Mendoza,284.0,146.0,1.0,3.0,54000.0
+Godoy Cruz,Mendoza,440.0,240.0,3.0,3.0,400000.0
+Godoy Cruz,Mendoza,100.0,85.0,1.0,3.0,59000.0
+Godoy Cruz,Mendoza,250.0,180.0,3.0,9.0,250000.0
+Godoy Cruz,Mendoza,100.0,80.0,1.0,2.0,75000.0
+Godoy Cruz,Mendoza,217.0,122.0,1.0,3.0,58000.0
+Godoy Cruz,Mendoza,1250.0,400.0,3.0,3.0,130000.0
+Godoy Cruz,Mendoza,250.0,125.0,1.0,3.0,78000.0
+Godoy Cruz,Mendoza,200.0,89.0,1.0,2.0,65000.0
+Godoy Cruz,Mendoza,523.0,370.0,4.0,5.0,450000.0
+Godoy Cruz,Mendoza,500.0,264.0,3.0,3.0,195000.0
+Godoy Cruz,Mendoza,160.0,232.0,2.0,6.0,67000.0
+Godoy Cruz,Mendoza,242.0,160.0,2.0,3.0,67000.0
+Godoy Cruz,Mendoza,120.0,200.0,1.0,2.0,65000.0
+Godoy Cruz,Mendoza,253.0,140.0,3.0,3.0,155000.0
+Godoy Cruz,Mendoza,170.0,90.0,2.0,3.0,44900.0
+Godoy Cruz,Mendoza,450.0,300.0,3.0,3.0,490000.0
+Godoy Cruz,Mendoza,558.0,310.0,4.0,4.0,210000.0
+Godoy Cruz,Mendoza,475.0,143.0,2.0,3.0,78000.0
+Godoy Cruz,Mendoza,200.0,160.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,241.0,230.0,4.0,3.0,87000.0
+Godoy Cruz,Mendoza,167.0,140.0,3.0,4.0,115000.0
+Godoy Cruz,Mendoza,287.0,120.0,1.0,3.0,75000.0
+Godoy Cruz,Mendoza,226.0,178.0,2.0,4.0,94000.0
+Godoy Cruz,Mendoza,235.0,230.0,3.0,4.0,193000.0
+Godoy Cruz,Mendoza,216.0,123.0,3.0,3.0,100000.0
+Godoy Cruz,Mendoza,644.0,220.0,3.0,3.0,145000.0
+Godoy Cruz,Mendoza,110.0,210.0,1.0,2.0,60000.0
+Godoy Cruz,Mendoza,434.0,245.0,3.0,5.0,165000.0
+Godoy Cruz,Mendoza,1226.0,564.0,4.0,4.0,780000.0
+Godoy Cruz,Mendoza,400.0,398.0,4.0,5.0,210000.0
+Godoy Cruz,Mendoza,200.0,192.0,3.0,6.0,106000.0
+Godoy Cruz,Mendoza,411.0,200.0,4.0,5.0,105000.0
+Godoy Cruz,Mendoza,870.0,370.0,5.0,4.0,500000.0
+Godoy Cruz,Mendoza,203.0,180.0,2.0,3.0,98000.0
+Godoy Cruz,Mendoza,200.0,164.0,1.0,3.0,64000.0
+Godoy Cruz,Mendoza,200.0,160.0,2.0,3.0,68000.0
+Godoy Cruz,Mendoza,379.0,150.0,2.0,2.0,85000.0
+Godoy Cruz,Mendoza,315.0,162.0,1.0,3.0,32000.0
+Godoy Cruz,Mendoza,100.0,90.0,1.0,3.0,45000.0
+Godoy Cruz,Mendoza,170.0,100.0,1.0,3.0,36000.0
+Godoy Cruz,Mendoza,220.0,218.0,1.0,3.0,85000.0
+Godoy Cruz,Mendoza,169.0,153.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,212.0,178.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,200.0,264.0,3.0,4.0,85000.0
+Godoy Cruz,Mendoza,270.0,242.0,3.0,5.0,280000.0
+Godoy Cruz,Mendoza,168.0,188.0,2.0,3.0,138000.0
+Godoy Cruz,Mendoza,250.0,300.0,3.0,5.0,130000.0
+Godoy Cruz,Mendoza,296.0,210.0,2.0,5.0,225000.0
+Godoy Cruz,Mendoza,200.0,400.0,4.0,4.0,250000.0
+Godoy Cruz,Mendoza,324.0,230.0,3.0,4.0,200000.0
+Godoy Cruz,Mendoza,350.0,75.0,1.0,2.0,56000.0
+Godoy Cruz,Mendoza,240.0,175.0,2.0,3.0,120000.0
+Godoy Cruz,Mendoza,630.0,380.0,4.0,5.0,500000.0
+Godoy Cruz,Mendoza,423.0,225.0,3.0,3.0,210000.0
+Godoy Cruz,Mendoza,230.0,235.0,2.0,3.0,193000.0
+Godoy Cruz,Mendoza,310.0,180.0,3.0,3.0,119000.0
+Godoy Cruz,Mendoza,270.0,136.0,1.0,3.0,63000.0
+Godoy Cruz,Mendoza,246.0,123.0,3.0,4.0,130000.0
+Godoy Cruz,Mendoza,473.0,193.0,2.0,3.0,135000.0
+Godoy Cruz,Mendoza,285.0,162.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,420.0,300.0,5.0,4.0,490000.0
+Godoy Cruz,Mendoza,1280.0,400.0,2.0,3.0,110000.0
+Godoy Cruz,Mendoza,216.0,137.0,2.0,3.0,98000.0
+Godoy Cruz,Mendoza,325.0,180.0,3.0,3.0,115000.0
+Godoy Cruz,Mendoza,115.0,104.0,1.0,3.0,45000.0
+Godoy Cruz,Mendoza,590.0,180.0,3.0,3.0,150000.0
+Godoy Cruz,Mendoza,150.0,196.0,2.0,2.0,80000.0
+Godoy Cruz,Mendoza,200.0,165.0,2.0,3.0,55000.0
+Godoy Cruz,Mendoza,216.0,137.0,2.0,3.0,98000.0
+Godoy Cruz,Mendoza,210.0,126.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,190.0,154.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,250.0,250.0,2.0,5.0,165000.0
+Godoy Cruz,Mendoza,337.0,172.0,3.0,3.0,120000.0
+Godoy Cruz,Mendoza,1049.0,267.0,3.0,4.0,212000.0
+Godoy Cruz,Mendoza,420.0,350.0,4.0,4.0,370000.0
+Godoy Cruz,Mendoza,392.0,310.0,3.0,3.0,360000.0
+Godoy Cruz,Mendoza,360.0,320.0,4.0,4.0,120000.0
+Godoy Cruz,Mendoza,183.0,111.0,2.0,3.0,60000.0
+Godoy Cruz,Mendoza,200.0,211.0,4.0,5.0,110000.0
+Godoy Cruz,Mendoza,151.0,180.0,2.0,3.0,75000.0
+Godoy Cruz,Mendoza,200.0,160.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,212.0,150.0,3.0,3.0,80000.0
+Godoy Cruz,Mendoza,500.0,238.0,3.0,3.0,290000.0
+Godoy Cruz,Mendoza,500.0,248.0,3.0,3.0,300000.0
+Godoy Cruz,Mendoza,262.0,149.0,1.0,2.0,78000.0
+Godoy Cruz,Mendoza,160.0,89.0,1.0,2.0,65000.0
+Godoy Cruz,Mendoza,311.0,205.0,2.0,3.0,139500.0
+Godoy Cruz,Mendoza,340.0,320.0,5.0,4.0,220000.0
+Godoy Cruz,Mendoza,246.0,75.0,1.0,2.0,40000.0
+Godoy Cruz,Mendoza,884.0,327.0,2.0,3.0,280000.0
+Godoy Cruz,Mendoza,400.0,240.0,3.0,5.0,170000.0
+Godoy Cruz,Mendoza,405.0,257.0,4.0,4.0,320000.0
+Godoy Cruz,Mendoza,630.0,396.0,5.0,4.0,550000.0
+Godoy Cruz,Mendoza,170.0,140.0,2.0,3.0,90000.0
+Godoy Cruz,Mendoza,354.0,221.0,3.0,3.0,62000.0
+Godoy Cruz,Mendoza,220.0,149.0,1.0,3.0,41000.0
+Godoy Cruz,Mendoza,621.0,561.0,3.0,3.0,215000.0
+Godoy Cruz,Mendoza,514.0,358.0,3.0,3.0,460000.0
+Godoy Cruz,Mendoza,690.0,340.0,4.0,3.0,550000.0
+Godoy Cruz,Mendoza,588.0,415.0,4.0,5.0,700000.0
+Godoy Cruz,Mendoza,575.0,180.0,3.0,3.0,230000.0
+Godoy Cruz,Mendoza,220.0,96.0,1.0,3.0,45000.0
+Godoy Cruz,Mendoza,1176.0,600.0,6.0,5.0,800000.0
+Godoy Cruz,Mendoza,297.0,170.0,3.0,3.0,135000.0
+Godoy Cruz,Mendoza,200.0,170.0,2.0,3.0,57000.0
+Godoy Cruz,Mendoza,400.0,270.0,4.0,3.0,320000.0
+Godoy Cruz,Mendoza,670.0,492.0,5.0,5.0,449000.0
+Godoy Cruz,Mendoza,420.0,350.0,3.0,4.0,350000.0
+Godoy Cruz,Mendoza,420.0,250.0,3.0,4.0,360000.0
+Godoy Cruz,Mendoza,450.0,300.0,4.0,4.0,495000.0
+Godoy Cruz,Mendoza,420.0,340.0,4.0,5.0,370000.0
+Godoy Cruz,Mendoza,498.0,258.0,3.0,4.0,250000.0
+Godoy Cruz,Mendoza,525.0,310.0,4.0,4.0,380000.0
+Godoy Cruz,Mendoza,200.0,130.0,2.0,3.0,59999.0
+Godoy Cruz,Mendoza,142.0,125.0,3.0,3.0,130000.0
+Godoy Cruz,Mendoza,110.0,90.0,2.0,3.0,58000.0
+Godoy Cruz,Mendoza,230.0,140.0,2.0,4.0,90000.0
+Godoy Cruz,Mendoza,230.0,145.0,2.0,3.0,125000.0
+Godoy Cruz,Mendoza,240.0,100.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,440.0,230.0,3.0,3.0,400000.0
+Godoy Cruz,Mendoza,215.0,195.0,4.0,4.0,110000.0
+Godoy Cruz,Mendoza,306.0,242.0,2.0,3.0,160000.0
+Godoy Cruz,Mendoza,280.0,230.0,3.0,3.0,149900.0
+Godoy Cruz,Mendoza,208.0,180.0,3.0,4.0,80000.0
+Godoy Cruz,Mendoza,140.0,253.0,3.0,4.0,154000.0
+Godoy Cruz,Mendoza,197.0,152.0,2.0,3.0,98000.0
+Godoy Cruz,Mendoza,230.0,100.0,1.0,2.0,42000.0
+Godoy Cruz,Mendoza,216.0,190.0,2.0,3.0,105000.0
+Godoy Cruz,Mendoza,750.0,270.0,3.0,3.0,260000.0
+Godoy Cruz,Mendoza,170.0,134.0,2.0,4.0,42000.0
+Godoy Cruz,Mendoza,295.0,248.0,3.0,5.0,130000.0
+Godoy Cruz,Mendoza,296.0,220.0,3.0,5.0,67900.0
+Godoy Cruz,Mendoza,625.0,385.0,2.0,4.0,58000.0
+Godoy Cruz,Mendoza,160.0,125.0,2.0,4.0,55000.0
+Godoy Cruz,Mendoza,800.0,450.0,2.0,4.0,450000.0
+Godoy Cruz,Mendoza,245.0,210.0,2.0,3.0,120000.0
+Godoy Cruz,Mendoza,348.0,348.0,4.0,6.0,225000.0
+Godoy Cruz,Mendoza,400.0,380.0,3.0,4.0,298000.0
+Godoy Cruz,Mendoza,270.0,175.0,3.0,4.0,71250.0
+Godoy Cruz,Mendoza,71.0,71.0,1.0,2.0,42000.0
+Godoy Cruz,Mendoza,272.0,230.0,2.0,5.0,68000.0
+Godoy Cruz,Mendoza,340.0,185.0,3.0,3.0,90000.0
+Godoy Cruz,Mendoza,480.0,260.0,4.0,5.0,138000.0
+Godoy Cruz,Mendoza,653.0,400.0,4.0,5.0,330000.0
+Godoy Cruz,Mendoza,210.0,196.0,3.0,3.0,159000.0
+Godoy Cruz,Mendoza,316.0,211.0,2.0,4.0,134000.0
+Godoy Cruz,Mendoza,390.0,238.0,1.0,3.0,104000.0
+Godoy Cruz,Mendoza,274.0,110.0,1.0,3.0,57000.0
+Godoy Cruz,Mendoza,225.0,170.0,2.0,3.0,99000.0
+Godoy Cruz,Mendoza,500.0,480.0,5.0,5.0,350000.0
+Godoy Cruz,Mendoza,129.0,105.0,3.0,5.0,110000.0
+Godoy Cruz,Mendoza,372.0,327.0,3.0,4.0,70000.0
+Godoy Cruz,Mendoza,248.0,291.0,5.0,5.0,250000.0
+Godoy Cruz,Mendoza,210.0,150.0,2.0,3.0,110000.0
+Godoy Cruz,Mendoza,680.0,159.0,1.0,3.0,115000.0
+Godoy Cruz,Mendoza,277.0,247.0,5.0,4.0,110000.0
+Godoy Cruz,Mendoza,170.0,170.0,2.0,4.0,60000.0
+Godoy Cruz,Mendoza,220.0,220.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,170.0,170.0,1.0,3.0,79000.0
+Godoy Cruz,Mendoza,676.0,674.0,3.0,6.0,225000.0
+Godoy Cruz,Mendoza,240.0,170.0,2.0,4.0,75000.0
+Godoy Cruz,Mendoza,285.0,285.0,2.0,3.0,400000.0
+Godoy Cruz,Mendoza,115.0,115.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,181.0,171.0,2.0,3.0,59900.0
+Godoy Cruz,Mendoza,402.0,270.0,3.0,3.0,320000.0
+Godoy Cruz,Mendoza,741.0,397.0,5.0,5.0,345000.0
+Godoy Cruz,Mendoza,223.0,184.0,2.0,4.0,57000.0
+Godoy Cruz,Mendoza,130.0,85.0,1.0,2.0,38000.0
+Godoy Cruz,Mendoza,323.0,313.0,1.0,2.0,90000.0
+Godoy Cruz,Mendoza,243.0,208.0,2.0,4.0,170000.0
+Godoy Cruz,Mendoza,115.0,95.0,2.0,3.0,50000.0
+Godoy Cruz,Mendoza,150.0,150.0,2.0,2.0,70000.0
+Godoy Cruz,Mendoza,111.0,100.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,150.0,140.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,170.0,170.0,2.0,3.0,69000.0
+Godoy Cruz,Mendoza,240.0,120.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,234.0,234.0,3.0,5.0,115000.0
+Godoy Cruz,Mendoza,240.0,220.0,3.0,4.0,119000.0
+Godoy Cruz,Mendoza,174.0,164.0,3.0,3.0,90000.0
+Godoy Cruz,Mendoza,182.0,182.0,2.0,3.0,73000.0
+Godoy Cruz,Mendoza,122.0,122.0,1.0,3.0,70000.0
+Godoy Cruz,Mendoza,185.0,185.0,1.0,3.0,38500.0
+Godoy Cruz,Mendoza,233.0,183.0,3.0,4.0,100000.0
+Godoy Cruz,Mendoza,237.0,147.0,1.0,2.0,85000.0
+Godoy Cruz,Mendoza,500.0,271.0,4.0,3.0,210000.0
+Godoy Cruz,Mendoza,319.0,226.0,4.0,3.0,90000.0
+Godoy Cruz,Mendoza,129.0,85.0,1.0,2.0,65000.0
+Godoy Cruz,Mendoza,200.0,80.0,1.0,2.0,42000.0
+Godoy Cruz,Mendoza,240.0,130.0,2.0,2.0,78000.0
+Godoy Cruz,Mendoza,255.0,153.0,2.0,2.0,70000.0
+Godoy Cruz,Mendoza,221.0,207.0,1.0,2.0,75000.0
+Godoy Cruz,Mendoza,263.0,180.0,1.0,3.0,70000.0
+Godoy Cruz,Mendoza,194.0,137.0,1.0,2.0,72000.0
+Godoy Cruz,Mendoza,135.0,111.0,2.0,3.0,46000.0
+Godoy Cruz,Mendoza,392.0,315.0,3.0,4.0,370000.0
+Godoy Cruz,Mendoza,229.0,164.0,1.0,3.0,95000.0
+Godoy Cruz,Mendoza,502.0,224.0,2.0,2.0,87000.0
+Godoy Cruz,Mendoza,214.0,267.0,3.0,3.0,130000.0
+Godoy Cruz,Mendoza,244.0,179.0,2.0,3.0,100000.0
+Godoy Cruz,Mendoza,197.0,111.0,1.0,3.0,54000.0
+Godoy Cruz,Mendoza,200.0,122.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,550.0,320.0,3.0,3.0,265000.0
+Godoy Cruz,Mendoza,150.0,135.0,2.0,3.0,60000.0
+Godoy Cruz,Mendoza,260.0,190.0,2.0,3.0,73500.0
+Godoy Cruz,Mendoza,392.0,310.0,3.0,4.0,363000.0
+Godoy Cruz,Mendoza,120.0,76.0,1.0,2.0,20000.0
+Godoy Cruz,Mendoza,137.0,90.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,120.0,90.0,1.0,2.0,20000.0
+Godoy Cruz,Mendoza,200.0,99.0,1.0,3.0,39000.0
+Godoy Cruz,Mendoza,240.0,158.0,2.0,3.0,90000.0
+Godoy Cruz,Mendoza,310.0,200.0,2.0,4.0,155000.0
+Godoy Cruz,Mendoza,205.0,125.0,2.0,3.0,125000.0
+Godoy Cruz,Mendoza,126.0,90.0,1.0,3.0,43000.0
+Godoy Cruz,Mendoza,600.0,236.0,2.0,3.0,130000.0
+Godoy Cruz,Mendoza,194.0,151.0,2.0,4.0,50000.0
+Godoy Cruz,Mendoza,125.0,112.0,2.0,2.0,63000.0
+Godoy Cruz,Mendoza,210.0,108.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,420.0,260.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,213.0,245.0,3.0,4.0,200000.0
+Godoy Cruz,Mendoza,214.0,90.0,1.0,2.0,59000.0
+Godoy Cruz,Mendoza,246.0,123.0,3.0,4.0,130000.0
+Godoy Cruz,Mendoza,210.0,127.0,2.0,3.0,50000.0
+Godoy Cruz,Mendoza,234.0,106.0,1.0,3.0,65000.0
+Godoy Cruz,Mendoza,440.0,250.0,4.0,3.0,155000.0
+Godoy Cruz,Mendoza,400.0,270.0,4.0,4.0,400000.0
+Godoy Cruz,Mendoza,200.0,120.0,2.0,3.0,63000.0
+Godoy Cruz,Mendoza,1280.0,400.0,2.0,3.0,110000.0
+Godoy Cruz,Mendoza,185.0,95.0,2.0,2.0,87000.0
+Godoy Cruz,Mendoza,104.0,140.0,2.0,3.0,55000.0
+Godoy Cruz,Mendoza,277.0,180.0,1.0,3.0,53000.0
+Godoy Cruz,Mendoza,220.0,140.0,2.0,3.0,55000.0
+Godoy Cruz,Mendoza,205.0,115.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,220.0,138.0,2.0,2.0,43000.0
+Godoy Cruz,Mendoza,200.0,110.0,1.0,2.0,65000.0
+Godoy Cruz,Mendoza,360.0,350.0,5.0,6.0,265000.0
+Godoy Cruz,Mendoza,210.0,160.0,2.0,4.0,83000.0
+Godoy Cruz,Mendoza,200.0,127.0,2.0,3.0,79000.0
+Godoy Cruz,Mendoza,139.0,180.0,1.0,2.0,68000.0
+Godoy Cruz,Mendoza,200.0,226.0,2.0,5.0,88000.0
+Godoy Cruz,Mendoza,204.0,158.0,2.0,3.0,90000.0
+Godoy Cruz,Mendoza,260.0,154.0,2.0,3.0,89000.0
+Godoy Cruz,Mendoza,263.0,130.0,1.0,3.0,40000.0
+Godoy Cruz,Mendoza,100.0,140.0,2.0,3.0,98000.0
+Godoy Cruz,Mendoza,120.0,75.0,1.0,2.0,110000.0
+Godoy Cruz,Mendoza,168.0,85.0,1.0,2.0,80000.0
+Godoy Cruz,Mendoza,464.0,264.0,3.0,2.0,80000.0
+Godoy Cruz,Mendoza,275.0,131.0,2.0,3.0,56000.0
+Godoy Cruz,Mendoza,220.0,138.0,2.0,3.0,43000.0
+Godoy Cruz,Mendoza,210.0,240.0,3.0,3.0,147000.0
+Godoy Cruz,Mendoza,240.0,180.0,2.0,4.0,108500.0
+Godoy Cruz,Mendoza,202.0,191.0,2.0,3.0,60000.0
+Godoy Cruz,Mendoza,216.0,145.0,2.0,3.0,53000.0
+Godoy Cruz,Mendoza,220.0,187.0,2.0,5.0,60000.0
+Godoy Cruz,Mendoza,240.0,120.0,2.0,3.0,43000.0
+Godoy Cruz,Mendoza,500.0,250.0,3.0,3.0,240000.0
+Godoy Cruz,Mendoza,250.0,150.0,2.0,2.0,50000.0
+Godoy Cruz,Mendoza,180.0,139.0,1.0,3.0,70000.0
+Godoy Cruz,Mendoza,420.0,187.0,3.0,3.0,100000.0
+Godoy Cruz,Mendoza,219.0,127.0,1.0,2.0,75000.0
+Godoy Cruz,Mendoza,200.0,85.0,1.0,2.0,49000.0
+Godoy Cruz,Mendoza,170.0,80.0,1.0,2.0,47000.0
+Godoy Cruz,Mendoza,340.0,150.0,1.0,2.0,83000.0
+Godoy Cruz,Mendoza,553.0,141.0,2.0,3.0,220000.0
+Godoy Cruz,Mendoza,230.0,130.0,2.0,3.0,65000.0
+Godoy Cruz,Mendoza,385.0,65.0,1.0,2.0,36000.0
+Godoy Cruz,Mendoza,186.0,186.0,2.0,4.0,90000.0
+Godoy Cruz,Mendoza,300.0,186.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,250.0,170.0,2.0,3.0,78000.0
+Godoy Cruz,Mendoza,242.0,166.0,2.0,3.0,65000.0
+Godoy Cruz,Mendoza,201.0,138.0,2.0,3.0,63000.0
+Godoy Cruz,Mendoza,220.0,131.0,2.0,3.0,48000.0
+Godoy Cruz,Mendoza,260.0,140.0,2.0,3.0,40000.0
+Godoy Cruz,Mendoza,245.0,157.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,218.0,204.0,1.0,3.0,75000.0
+Godoy Cruz,Mendoza,200.0,164.0,3.0,4.0,93000.0
+Godoy Cruz,Mendoza,125.0,166.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,210.0,140.0,2.0,3.0,77000.0
+Godoy Cruz,Mendoza,180.0,150.0,2.0,3.0,46000.0
+Godoy Cruz,Mendoza,190.0,118.0,3.0,3.0,109000.0
+Godoy Cruz,Mendoza,1294.0,550.0,4.0,7.0,380000.0
+Godoy Cruz,Mendoza,732.0,370.0,6.0,4.0,495000.0
+Godoy Cruz,Mendoza,200.0,171.0,2.0,3.0,60000.0
+Godoy Cruz,Mendoza,315.0,220.0,1.0,3.0,35000.0
+Godoy Cruz,Mendoza,240.0,157.0,2.0,3.0,105000.0
+Godoy Cruz,Mendoza,187.0,220.0,2.0,5.0,62000.0
+Godoy Cruz,Mendoza,240.0,90.0,2.0,3.0,43000.0
+Godoy Cruz,Mendoza,426.0,300.0,3.0,4.0,150000.0
+Godoy Cruz,Mendoza,194.0,114.0,1.0,2.0,65000.0
+Godoy Cruz,Mendoza,392.0,257.0,3.0,4.0,275000.0
+Godoy Cruz,Mendoza,203.0,95.0,1.0,3.0,52000.0
+Godoy Cruz,Mendoza,120.0,72.0,1.0,2.0,15000.0
+Godoy Cruz,Mendoza,80.0,125.0,2.0,3.0,60000.0
+Godoy Cruz,Mendoza,340.0,230.0,1.0,3.0,87000.0
+Godoy Cruz,Mendoza,800.0,275.0,2.0,3.0,260000.0
+Godoy Cruz,Mendoza,253.0,140.0,3.0,3.0,155000.0
+Godoy Cruz,Mendoza,230.0,310.0,2.0,3.0,150000.0
+Godoy Cruz,Mendoza,190.0,150.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,113.0,93.0,1.0,2.0,38000.0
+Godoy Cruz,Mendoza,115.0,115.0,2.0,2.0,33000.0
+Godoy Cruz,Mendoza,300.0,300.0,3.0,5.0,82000.0
+Godoy Cruz,Mendoza,220.0,160.0,2.0,3.0,73000.0
+Godoy Cruz,Mendoza,400.0,322.0,3.0,3.0,230000.0
+Godoy Cruz,Mendoza,215.0,122.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,285.0,124.0,1.0,2.0,38000.0
+Godoy Cruz,Mendoza,542.0,434.0,3.0,4.0,150000.0
+Godoy Cruz,Mendoza,224.0,141.0,2.0,3.0,40000.0
+Godoy Cruz,Mendoza,170.0,138.0,2.0,4.0,46000.0
+Godoy Cruz,Mendoza,176.0,141.0,2.0,3.0,45000.0
+Godoy Cruz,Mendoza,200.0,90.0,1.0,2.0,90000.0
+Godoy Cruz,Mendoza,200.0,200.0,2.0,2.0,130000.0
+Godoy Cruz,Mendoza,200.0,164.0,1.0,3.0,64000.0
+Godoy Cruz,Mendoza,500.0,249.0,3.0,3.0,460000.0
+Godoy Cruz,Mendoza,115.0,110.0,1.0,3.0,45000.0
+Godoy Cruz,Mendoza,370.0,159.0,1.0,2.0,59000.0
+Godoy Cruz,Mendoza,166.0,121.0,1.0,2.0,35000.0
+Godoy Cruz,Mendoza,120.0,80.0,1.0,2.0,15000.0
+Godoy Cruz,Mendoza,207.0,126.0,1.0,2.0,68000.0
+Godoy Cruz,Mendoza,630.0,470.0,6.0,3.0,800000.0
+Godoy Cruz,Mendoza,260.0,170.0,1.0,2.0,60000.0
+Godoy Cruz,Mendoza,200.0,125.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,200.0,130.0,2.0,3.0,98000.0
+Godoy Cruz,Mendoza,230.0,170.0,2.0,3.0,105000.0
+Godoy Cruz,Mendoza,330.0,135.0,1.0,2.0,55000.0
+Godoy Cruz,Mendoza,224.0,126.0,1.0,3.0,48000.0
+Godoy Cruz,Mendoza,264.0,149.0,2.0,3.0,73000.0
+Godoy Cruz,Mendoza,200.0,125.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,240.0,130.0,2.0,3.0,60000.0
+Godoy Cruz,Mendoza,187.0,160.0,1.0,3.0,80000.0
+Godoy Cruz,Mendoza,300.0,162.0,1.0,2.0,47000.0
+Godoy Cruz,Mendoza,149.0,142.0,3.0,3.0,46000.0
+Godoy Cruz,Mendoza,185.0,95.0,1.0,4.0,21000.0
+Godoy Cruz,Mendoza,200.0,132.0,1.0,3.0,52000.0
+Godoy Cruz,Mendoza,400.0,340.0,6.0,5.0,280000.0
+Godoy Cruz,Mendoza,220.0,160.0,2.0,3.0,57000.0
+Godoy Cruz,Mendoza,385.0,1.0,3.0,4.0,150000.0
+Godoy Cruz,Mendoza,236.0,160.0,2.0,3.0,140000.0
+Godoy Cruz,Mendoza,253.0,140.0,3.0,3.0,150000.0
+Godoy Cruz,Mendoza,264.0,175.0,2.0,3.0,85000.0
+Godoy Cruz,Mendoza,170.0,138.0,2.0,3.0,43000.0
+Godoy Cruz,Mendoza,100.0,65.0,1.0,2.0,48000.0
+Godoy Cruz,Mendoza,119.0,171.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,189.0,126.0,1.0,3.0,79000.0
+Godoy Cruz,Mendoza,220.0,75.0,1.0,3.0,48000.0
+Godoy Cruz,Mendoza,330.0,270.0,4.0,3.0,210000.0
+Godoy Cruz,Mendoza,450.0,100.0,1.0,2.0,140000.0
+Godoy Cruz,Mendoza,244.0,260.0,2.0,3.0,150000.0
+Godoy Cruz,Mendoza,440.0,220.0,3.0,3.0,400000.0
+Godoy Cruz,Mendoza,360.0,175.0,3.0,3.0,175000.0
+Godoy Cruz,Mendoza,219.0,160.0,3.0,3.0,85000.0
+Godoy Cruz,Mendoza,300.0,85.0,1.0,3.0,75000.0
+Godoy Cruz,Mendoza,200.0,160.0,2.0,4.0,70000.0
+Godoy Cruz,Mendoza,200.0,65.0,1.0,2.0,50000.0
+Godoy Cruz,Mendoza,165.0,120.0,2.0,2.0,65000.0
+Godoy Cruz,Mendoza,790.0,225.0,3.0,3.0,297000.0
+Godoy Cruz,Mendoza,364.0,320.0,3.0,3.0,150000.0
+Godoy Cruz,Mendoza,392.0,237.0,4.0,3.0,350000.0
+Godoy Cruz,Mendoza,267.0,132.0,1.0,3.0,40000.0
+Godoy Cruz,Mendoza,77.0,77.0,1.0,3.0,82000.0
+Godoy Cruz,Mendoza,240.0,150.0,2.0,3.0,43000.0
+Godoy Cruz,Mendoza,145.0,90.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,100.0,70.0,1.0,2.0,26000.0
+Godoy Cruz,Mendoza,60.0,100.0,1.0,2.0,26000.0
+Godoy Cruz,Mendoza,219.0,146.0,2.0,3.0,64000.0
+Godoy Cruz,Mendoza,200.0,250.0,3.0,3.0,50000.0
+Godoy Cruz,Mendoza,250.0,180.0,2.0,2.0,95000.0
+Godoy Cruz,Mendoza,150.0,100.0,1.0,2.0,27000.0
+Godoy Cruz,Mendoza,200.0,140.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,1498.0,653.0,5.0,4.0,795000.0
+Godoy Cruz,Mendoza,187.0,90.0,1.0,3.0,59000.0
+Godoy Cruz,Mendoza,370.0,220.0,3.0,3.0,130000.0
+Godoy Cruz,Mendoza,260.0,190.0,1.0,3.0,55000.0
+Godoy Cruz,Mendoza,200.0,140.0,2.0,4.0,38500.0
+Godoy Cruz,Mendoza,200.0,160.0,3.0,4.0,80000.0
+Godoy Cruz,Mendoza,130.0,110.0,2.0,3.0,45000.0
+Godoy Cruz,Mendoza,75.0,75.0,1.0,1.0,69000.0
+Godoy Cruz,Mendoza,201.0,173.0,2.0,4.0,64000.0
+Godoy Cruz,Mendoza,232.0,157.0,3.0,3.0,80000.0
+Godoy Cruz,Mendoza,249.0,100.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,110.0,90.0,1.0,2.0,69000.0
+Godoy Cruz,Mendoza,888.0,302.0,4.0,3.0,145000.0
+Godoy Cruz,Mendoza,143.0,136.0,2.0,4.0,96000.0
+Godoy Cruz,Mendoza,232.0,135.0,2.0,3.0,38000.0
+Godoy Cruz,Mendoza,280.0,150.0,2.0,4.0,120000.0
+Godoy Cruz,Mendoza,392.0,275.0,5.0,5.0,330000.0
+Godoy Cruz,Mendoza,137.0,90.0,1.0,3.0,68000.0
+Godoy Cruz,Mendoza,213.0,90.0,1.0,3.0,58000.0
+Godoy Cruz,Mendoza,256.0,150.0,3.0,3.0,84000.0
+Godoy Cruz,Mendoza,117.0,85.0,1.0,3.0,45000.0
+Godoy Cruz,Mendoza,219.0,78.0,1.0,3.0,50000.0
+Godoy Cruz,Mendoza,315.0,200.0,1.0,3.0,35000.0
+Godoy Cruz,Mendoza,137.0,93.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,290.0,128.0,1.0,2.0,40000.0
+Godoy Cruz,Mendoza,200.0,180.0,1.0,4.0,65000.0
+Godoy Cruz,Mendoza,100.0,103.0,1.0,3.0,45000.0
+Godoy Cruz,Mendoza,200.0,100.0,1.0,2.0,35000.0
+Godoy Cruz,Mendoza,235.0,157.0,2.0,3.0,65000.0
+Godoy Cruz,Mendoza,230.0,180.0,2.0,3.0,56000.0
+Godoy Cruz,Mendoza,408.0,230.0,3.0,4.0,245000.0
+Godoy Cruz,Mendoza,362.0,228.0,2.0,3.0,52000.0
+Godoy Cruz,Mendoza,215.0,110.0,1.0,3.0,40000.0
+Godoy Cruz,Mendoza,421.0,222.0,3.0,3.0,298000.0
+Godoy Cruz,Mendoza,200.0,130.0,2.0,3.0,45000.0
+Godoy Cruz,Mendoza,200.0,180.0,2.0,4.0,21000.0
+Godoy Cruz,Mendoza,420.0,400.0,5.0,6.0,480000.0
+Godoy Cruz,Mendoza,300.0,180.0,2.0,3.0,80000.0
+Godoy Cruz,Mendoza,255.0,210.0,3.0,4.0,80000.0
+Godoy Cruz,Mendoza,270.0,140.0,2.0,3.0,80000.0
+Godoy Cruz,Mendoza,215.0,127.0,2.0,3.0,57000.0
+Godoy Cruz,Mendoza,220.0,129.0,2.0,4.0,75000.0
+Godoy Cruz,Mendoza,307.0,99.0,1.0,3.0,38500.0
+Godoy Cruz,Mendoza,197.0,53.0,1.0,2.0,19700.0
+Godoy Cruz,Mendoza,235.0,165.0,2.0,3.0,57000.0
+Godoy Cruz,Mendoza,250.0,250.0,4.0,4.0,145000.0
+Godoy Cruz,Mendoza,200.0,110.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,205.0,119.0,2.0,2.0,40000.0
+Godoy Cruz,Mendoza,300.0,285.0,4.0,5.0,238000.0
+Godoy Cruz,Mendoza,190.0,182.0,3.0,4.0,95000.0
+Godoy Cruz,Mendoza,200.0,120.0,2.0,4.0,55000.0
+Godoy Cruz,Mendoza,249.0,110.0,1.0,2.0,62000.0
+Godoy Cruz,Mendoza,400.0,200.0,3.0,2.0,95001.0
+Godoy Cruz,Mendoza,290.0,120.0,2.0,4.0,90000.0
+Godoy Cruz,Mendoza,330.0,270.0,4.0,4.0,175000.0
+Godoy Cruz,Mendoza,200.0,124.0,1.0,3.0,25000.0
+Godoy Cruz,Mendoza,226.0,200.0,2.0,4.0,75000.0
+Godoy Cruz,Mendoza,220.0,170.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,1040.0,350.0,4.0,4.0,750000.0
+Godoy Cruz,Mendoza,220.0,150.0,2.0,4.0,45000.0
+Godoy Cruz,Mendoza,500.0,288.0,4.0,3.0,330000.0
+Godoy Cruz,Mendoza,240.0,157.0,2.0,3.0,90000.0
+Godoy Cruz,Mendoza,220.0,170.0,2.0,4.0,55000.0
+Godoy Cruz,Mendoza,210.0,170.0,2.0,4.0,87500.0
+Godoy Cruz,Mendoza,217.0,170.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,207.0,135.0,1.0,3.0,36800.0
+Godoy Cruz,Mendoza,100.0,170.0,3.0,3.0,79000.0
+Godoy Cruz,Mendoza,202.0,150.0,2.0,3.0,67000.0
+Godoy Cruz,Mendoza,268.0,240.0,3.0,4.0,155000.0
+Godoy Cruz,Mendoza,224.0,121.0,2.0,3.0,55000.0
+Godoy Cruz,Mendoza,300.0,200.0,2.0,3.0,50000.0
+Godoy Cruz,Mendoza,227.0,150.0,2.0,3.0,41000.0
+Godoy Cruz,Mendoza,205.0,113.0,2.0,2.0,79000.0
+Godoy Cruz,Mendoza,200.0,133.0,1.0,3.0,50000.0
+Godoy Cruz,Mendoza,237.0,140.0,3.0,5.0,40000.0
+Godoy Cruz,Mendoza,325.0,110.0,1.0,2.0,79900.0
+Godoy Cruz,Mendoza,180.0,142.0,1.0,3.0,65000.0
+Godoy Cruz,Mendoza,200.0,158.0,2.0,2.0,53000.0
+Godoy Cruz,Mendoza,300.0,110.0,1.0,2.0,59000.0
+Godoy Cruz,Mendoza,185.0,213.0,2.0,3.0,89000.0
+Godoy Cruz,Mendoza,1290.0,558.0,5.0,7.0,330000.0
+Godoy Cruz,Mendoza,201.0,215.0,3.0,3.0,65000.0
+Godoy Cruz,Mendoza,120.0,179.0,3.0,3.0,79000.0
+Godoy Cruz,Mendoza,202.0,149.0,1.0,3.0,45000.0
+Godoy Cruz,Mendoza,271.0,133.0,2.0,4.0,44500.0
+Godoy Cruz,Mendoza,189.0,143.0,1.0,3.0,65000.0
+Godoy Cruz,Mendoza,147.0,100.0,1.0,3.0,45000.0
+Godoy Cruz,Mendoza,170.0,110.0,2.0,3.0,47000.0
+Godoy Cruz,Mendoza,109.0,85.0,1.0,3.0,31000.0
+Godoy Cruz,Mendoza,265.0,190.0,2.0,3.0,55000.0
+Godoy Cruz,Mendoza,220.0,120.0,1.0,2.0,48000.0
+Godoy Cruz,Mendoza,180.0,142.0,1.0,3.0,65000.0
+Godoy Cruz,Mendoza,211.0,140.0,1.0,2.0,25000.0
+Godoy Cruz,Mendoza,200.0,158.0,2.0,2.0,53000.0
+Godoy Cruz,Mendoza,300.0,250.0,2.0,4.0,399000.0
+Godoy Cruz,Mendoza,219.0,142.0,3.0,3.0,148000.0
+Godoy Cruz,Mendoza,237.0,130.0,2.0,3.0,89000.0
+Godoy Cruz,Mendoza,284.0,186.0,1.0,3.0,42000.0
+Godoy Cruz,Mendoza,284.0,186.0,1.0,3.0,42000.0
+Godoy Cruz,Mendoza,349.0,210.0,2.0,3.0,87000.0
+Godoy Cruz,Mendoza,280.0,279.0,1.0,3.0,53000.0
+Godoy Cruz,Mendoza,200.0,94.0,1.0,3.0,25000.0
+Godoy Cruz,Mendoza,233.0,89.0,1.0,3.0,44000.0
+Godoy Cruz,Mendoza,200.0,210.0,2.0,4.0,55000.0
+Godoy Cruz,Mendoza,420.0,267.0,3.0,4.0,350000.0
+Godoy Cruz,Mendoza,135.0,112.0,2.0,3.0,55000.0
+Godoy Cruz,Mendoza,507.0,303.0,3.0,5.0,228000.0
+Godoy Cruz,Mendoza,130.0,110.0,3.0,3.0,130000.0
+Godoy Cruz,Mendoza,270.0,170.0,3.0,3.0,120000.0
+Godoy Cruz,Mendoza,170.0,91.0,1.0,3.0,42000.0
+Godoy Cruz,Mendoza,600.0,450.0,5.0,4.0,700000.0
+Godoy Cruz,Mendoza,120.0,155.0,2.0,3.0,125000.0
+Godoy Cruz,Mendoza,230.0,120.0,1.0,3.0,50000.0
+Godoy Cruz,Mendoza,428.0,227.0,3.0,4.0,140000.0
+Godoy Cruz,Mendoza,473.0,193.0,2.0,3.0,150000.0
+Godoy Cruz,Mendoza,161.0,100.0,1.0,3.0,42000.0
+Godoy Cruz,Mendoza,300.0,190.0,3.0,3.0,83000.0
+Godoy Cruz,Mendoza,172.0,204.0,3.0,4.0,107000.0
+Godoy Cruz,Mendoza,250.0,140.0,1.0,2.0,24000.0
+Godoy Cruz,Mendoza,104.0,80.0,1.0,2.0,25000.0
+Godoy Cruz,Mendoza,170.0,200.0,4.0,4.0,220000.0
+Godoy Cruz,Mendoza,200.0,165.0,1.0,3.0,66000.0
+Godoy Cruz,Mendoza,120.0,100.0,1.0,2.0,21000.0
+Godoy Cruz,Mendoza,200.0,113.0,1.0,3.0,47000.0
+Godoy Cruz,Mendoza,148.0,109.0,2.0,3.0,25000.0
+Godoy Cruz,Mendoza,420.0,250.0,3.0,4.0,350000.0
+Godoy Cruz,Mendoza,420.0,313.0,4.0,4.0,360000.0
+Godoy Cruz,Mendoza,328.0,224.0,2.0,4.0,139000.0
+Godoy Cruz,Mendoza,420.0,260.0,4.0,4.0,350000.0
+Godoy Cruz,Mendoza,205.0,155.0,2.0,3.0,125000.0
+Godoy Cruz,Mendoza,289.0,209.0,2.0,3.0,230000.0
+Godoy Cruz,Mendoza,630.0,420.0,4.0,5.0,500000.0
+Godoy Cruz,Mendoza,425.0,277.0,3.0,4.0,150000.0
+Godoy Cruz,Mendoza,220.0,140.0,1.0,3.0,42000.0
+Godoy Cruz,Mendoza,242.0,165.0,2.0,3.0,76000.0
+Godoy Cruz,Mendoza,365.0,348.0,4.0,5.0,367000.0
+Godoy Cruz,Mendoza,741.0,397.0,5.0,5.0,345000.0
+Godoy Cruz,Mendoza,178.0,125.0,1.0,3.0,50000.0
+Godoy Cruz,Mendoza,460.0,220.0,4.0,4.0,150000.0
+Godoy Cruz,Mendoza,268.0,190.0,3.0,3.0,39000.0
+Godoy Cruz,Mendoza,253.0,140.0,3.0,4.0,155000.0
+Godoy Cruz,Mendoza,178.0,125.0,1.0,3.0,50000.0
+Godoy Cruz,Mendoza,206.0,115.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,173.0,83.0,1.0,3.0,42900.0
+Godoy Cruz,Mendoza,102.0,107.0,2.0,3.0,42000.0
+Godoy Cruz,Mendoza,173.0,136.0,2.0,3.0,68000.0
+Godoy Cruz,Mendoza,170.0,150.0,1.0,2.0,78000.0
+Godoy Cruz,Mendoza,360.0,175.0,3.0,3.0,145000.0
+Godoy Cruz,Mendoza,200.0,160.0,1.0,2.0,47000.0
+Godoy Cruz,Mendoza,464.0,264.0,3.0,2.0,80000.0
+Godoy Cruz,Mendoza,250.0,223.0,4.0,4.0,145000.0
+Godoy Cruz,Mendoza,250.0,223.0,4.0,4.0,145000.0
+Godoy Cruz,Mendoza,200.0,110.0,2.0,4.0,21500.0
+Godoy Cruz,Mendoza,280.0,250.0,2.0,4.0,320000.0
+Godoy Cruz,Mendoza,301.0,130.0,2.0,3.0,150000.0
+Godoy Cruz,Mendoza,171.0,171.0,2.0,3.0,62500.0
+Godoy Cruz,Mendoza,271.0,191.0,1.0,4.0,65000.0
+Godoy Cruz,Mendoza,140.0,110.0,2.0,3.0,49900.0
+Godoy Cruz,Mendoza,242.0,150.0,2.0,3.0,70000.0
+Godoy Cruz,Mendoza,210.0,150.0,3.0,3.0,160000.0
+Godoy Cruz,Mendoza,144.0,132.0,1.0,2.0,29900.0
+Godoy Cruz,Mendoza,400.0,627.0,4.0,4.0,430000.0
+Godoy Cruz,Mendoza,449.0,283.0,3.0,3.0,340000.0
+Godoy Cruz,Mendoza,179.0,170.0,2.0,3.0,52000.0
+Godoy Cruz,Mendoza,285.0,100.0,1.0,2.0,36000.0
+Godoy Cruz,Mendoza,363.0,205.0,4.0,4.0,245000.0
+Godoy Cruz,Mendoza,272.0,100.0,1.0,2.0,45000.0
+Godoy Cruz,Mendoza,400.0,250.0,4.0,4.0,140000.0
+Godoy Cruz,Mendoza,197.0,132.0,2.0,2.0,62000.0
+Godoy Cruz,Mendoza,200.0,113.0,1.0,3.0,47000.0
+Godoy Cruz,Mendoza,210.0,180.0,2.0,3.0,52000.0
+Godoy Cruz,Mendoza,500.0,90.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,180.0,80.0,2.0,3.0,36000.0
+Godoy Cruz,Mendoza,400.0,186.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,153.0,153.0,2.0,4.0,59000.0
+Godoy Cruz,Mendoza,286.0,113.0,1.0,3.0,79000.0
+Godoy Cruz,Mendoza,269.0,145.0,2.0,3.0,125000.0
+Godoy Cruz,Mendoza,219.0,189.0,1.0,3.0,59000.0
+Godoy Cruz,Mendoza,200.0,120.0,1.0,3.0,38000.0
+Godoy Cruz,Mendoza,105.0,90.0,2.0,3.0,30000.0
+Godoy Cruz,Mendoza,185.0,165.0,1.0,3.0,85000.0
+Godoy Cruz,Mendoza,174.0,174.0,1.0,2.0,37000.0
+Godoy Cruz,Mendoza,135.0,120.0,2.0,3.0,45000.0
+Godoy Cruz,Mendoza,146.0,146.0,2.0,3.0,48000.0
+Godoy Cruz,Mendoza,195.0,165.0,3.0,4.0,82000.0
+Godoy Cruz,Mendoza,140.0,140.0,1.0,2.0,35000.0
+Godoy Cruz,Mendoza,1089.0,301.0,5.0,6.0,220000.0
+Godoy Cruz,Mendoza,145.0,85.0,1.0,2.0,49000.0
+Godoy Cruz,Mendoza,426.0,304.0,3.0,3.0,155000.0
+Godoy Cruz,Mendoza,198.0,140.0,2.0,3.0,30000.0
+Godoy Cruz,Mendoza,216.0,150.0,2.0,3.0,67000.0
+Godoy Cruz,Mendoza,131.0,131.0,2.0,3.0,80000.0
+Godoy Cruz,Mendoza,200.0,130.0,2.0,2.0,68000.0
+Godoy Cruz,Mendoza,230.0,108.0,1.0,3.0,35000.0
+Godoy Cruz,Mendoza,249.0,161.0,2.0,3.0,82000.0
+Godoy Cruz,Mendoza,420.0,182.0,1.0,2.0,80000.0
+Godoy Cruz,Mendoza,219.0,108.0,1.0,3.0,60000.0
+Godoy Cruz,Mendoza,221.0,94.0,1.0,3.0,43000.0
+Godoy Cruz,Mendoza,316.0,118.0,1.0,3.0,70000.0
+Godoy Cruz,Mendoza,241.0,229.0,3.0,5.0,85000.0
+Godoy Cruz,Mendoza,213.0,138.0,2.0,3.0,65000.0
+Godoy Cruz,Mendoza,341.0,184.0,2.0,3.0,95000.0
+Godoy Cruz,Mendoza,109.0,99.0,1.0,2.0,28000.0
+Godoy Cruz,Mendoza,306.0,306.0,2.0,3.0,55000.0
+Godoy Cruz,Mendoza,280.0,169.0,3.0,4.0,90000.0
+Godoy Cruz,Mendoza,263.0,186.0,1.0,3.0,48000.0
+Godoy Cruz,Mendoza,227.0,133.0,2.0,4.0,49000.0
+Capital,Mendoza,300.0,175.0,3.0,3.0,215000.0
+Capital,Mendoza,120.0,110.0,2.0,4.0,180000.0
+Capital,Mendoza,143.0,200.0,4.0,4.0,150000.0
+Capital,Mendoza,273.0,273.0,4.0,1.0,210000.0
+Capital,Mendoza,596.0,308.0,4.0,4.0,340000.0
+Capital,Mendoza,300.0,265.0,4.0,4.0,370000.0
+Capital,Mendoza,452.0,452.0,4.0,3.0,390000.0
+Capital,Mendoza,433.0,300.0,4.0,4.0,265000.0
+Capital,Mendoza,197.0,127.0,3.0,3.0,299000.0
+Capital,Mendoza,265.0,211.0,2.0,4.0,57000.0
+Capital,Mendoza,450.0,400.0,4.0,5.0,450000.0
+Capital,Mendoza,111.0,108.0,3.0,3.0,170000.0
+Capital,Mendoza,360.0,170.0,3.0,3.0,360000.0
+Capital,Mendoza,205.0,205.0,2.0,3.0,285000.0
+Capital,Mendoza,450.0,208.0,3.0,3.0,295000.0
+Capital,Mendoza,341.0,321.0,3.0,4.0,360000.0
+Capital,Mendoza,602.0,383.0,7.0,6.0,600000.0
+Capital,Mendoza,340.0,300.0,3.0,4.0,298000.0
+Capital,Mendoza,660.0,390.0,4.0,4.0,500000.0
+Capital,Mendoza,800.0,450.0,4.0,4.0,430000.0
+Capital,Mendoza,228.0,228.0,3.0,5.0,230000.0
+Capital,Mendoza,357.0,324.0,2.0,4.0,225000.0
+Capital,Mendoza,274.0,125.0,1.0,4.0,68000.0
+Capital,Mendoza,237.0,185.0,2.0,3.0,90000.0
+Capital,Mendoza,402.0,260.0,5.0,4.0,130000.0
+Capital,Mendoza,166.0,205.0,4.0,5.0,135000.0
+Capital,Mendoza,90.0,90.0,2.0,3.0,92000.0
+Capital,Mendoza,140.0,308.0,1.0,3.0,82000.0
+Capital,Mendoza,350.0,160.0,2.0,3.0,159000.0
+Capital,Mendoza,532.0,220.0,3.0,3.0,320000.0
+Capital,Mendoza,108.0,83.0,1.0,3.0,23000.0
+Capital,Mendoza,311.0,155.0,3.0,4.0,95000.0
+Capital,Mendoza,271.0,194.0,3.0,3.0,100000.0
+Capital,Mendoza,900.0,500.0,6.0,5.0,400000.0
+Capital,Mendoza,600.0,290.0,3.0,4.0,300000.0
+Capital,Mendoza,350.0,155.0,2.0,3.0,215000.0
+Capital,Mendoza,200.0,300.0,3.0,4.0,250000.0
+Capital,Mendoza,105.0,120.0,2.0,3.0,120000.0
+Capital,Mendoza,570.0,550.0,4.0,4.0,390000.0
+Capital,Mendoza,570.0,340.0,5.0,4.0,310000.0
+Capital,Mendoza,465.0,306.0,4.0,9.0,300000.0
+Capital,Mendoza,300.0,200.0,2.0,3.0,90000.0
+Capital,Mendoza,1000.0,660.0,5.0,5.0,450000.0
+Capital,Mendoza,300.0,212.0,3.0,3.0,270000.0
+Capital,Mendoza,300.0,250.0,3.0,4.0,340000.0
+Capital,Mendoza,290.0,260.0,3.0,3.0,245000.0
+Capital,Mendoza,300.0,175.0,3.0,3.0,215000.0
+Capital,Mendoza,120.0,110.0,2.0,4.0,180000.0
+Capital,Mendoza,143.0,200.0,4.0,4.0,150000.0
+Capital,Mendoza,273.0,273.0,4.0,1.0,210000.0
+Capital,Mendoza,596.0,308.0,4.0,4.0,340000.0
+Capital,Mendoza,300.0,265.0,4.0,4.0,370000.0
+Capital,Mendoza,452.0,452.0,4.0,3.0,390000.0
+Capital,Mendoza,433.0,300.0,4.0,4.0,265000.0
+Capital,Mendoza,197.0,127.0,3.0,3.0,299000.0
+Capital,Mendoza,265.0,211.0,2.0,4.0,57000.0
+Capital,Mendoza,450.0,400.0,4.0,5.0,450000.0
+Capital,Mendoza,111.0,108.0,3.0,3.0,170000.0
+Capital,Mendoza,360.0,170.0,3.0,3.0,360000.0
+Capital,Mendoza,205.0,205.0,2.0,3.0,285000.0
+Capital,Mendoza,450.0,208.0,3.0,3.0,295000.0
+Capital,Mendoza,341.0,321.0,3.0,4.0,360000.0
+Capital,Mendoza,602.0,383.0,7.0,6.0,600000.0
+Capital,Mendoza,340.0,300.0,3.0,4.0,298000.0
+Capital,Mendoza,660.0,390.0,4.0,4.0,500000.0
+Capital,Mendoza,800.0,450.0,4.0,4.0,430000.0
+Capital,Mendoza,228.0,228.0,3.0,5.0,230000.0
+Capital,Mendoza,357.0,324.0,2.0,4.0,225000.0
+Capital,Mendoza,274.0,125.0,1.0,4.0,68000.0
+Capital,Mendoza,725.0,421.0,6.0,4.0,550000.0
+Capital,Mendoza,450.0,285.0,3.0,3.0,285000.0
+Capital,Mendoza,294.0,265.0,4.0,4.0,160000.0
+Capital,Mendoza,563.0,343.0,3.0,4.0,280000.0
+Capital,Mendoza,260.0,260.0,3.0,4.0,235000.0
+Capital,Mendoza,246.0,200.0,2.0,5.0,55000.0
+Capital,Mendoza,285.0,275.0,3.0,3.0,235000.0
+Capital,Mendoza,483.0,483.0,1.0,3.0,250000.0
+Capital,Mendoza,171.0,234.0,2.0,4.0,190000.0
+Capital,Mendoza,224.0,115.0,3.0,4.0,65000.0
+Capital,Salta,558.0,252.0,3.0,4.0,195000.0
+Capital,Salta,1715.0,315.0,3.0,4.0,270000.0
+Capital,Salta,2875.0,385.0,5.0,5.0,400000.0
+Capital,Salta,460.0,220.0,4.0,3.0,150000.0
+Capital,Salta,435.0,110.0,1.0,3.0,130000.0
+Capital,Salta,1150.0,258.0,2.0,5.0,220000.0
+Capital,Mendoza,600.0,432.0,4.0,5.0,540000.0
+Capital,Mendoza,274.0,154.0,2.0,4.0,60000.0
+Capital,Mendoza,300.0,300.0,4.0,9.0,280000.0
+Capital,Mendoza,369.0,265.0,3.0,2.0,360000.0
+Capital,Mendoza,500.0,310.0,3.0,3.0,300000.0
+Capital,Mendoza,427.0,252.0,3.0,3.0,219000.0
+Capital,Mendoza,223.0,285.0,4.0,4.0,180000.0
+Capital,Mendoza,300.0,280.0,4.0,3.0,328000.0
+Capital,Mendoza,280.0,185.0,2.0,5.0,140000.0
+Capital,Mendoza,376.0,378.0,4.0,4.0,280000.0
+Capital,Mendoza,900.0,450.0,3.0,4.0,350000.0
+Capital,Mendoza,340.0,300.0,3.0,3.0,235000.0
+Capital,Mendoza,460.0,380.0,3.0,3.0,320000.0
+Capital,Mendoza,750.0,224.0,2.0,2.0,185000.0
+Capital,Mendoza,357.0,580.0,4.0,3.0,300000.0
+Capital,Mendoza,310.0,200.0,2.0,3.0,93000.0
+Capital,Mendoza,570.0,195.0,3.0,3.0,230000.0
+Capital,Mendoza,398.0,180.0,2.0,3.0,67500.0
+Capital,Mendoza,45.0,45.0,1.0,2.0,40000.0
+Capital,Mendoza,500.0,234.0,3.0,3.0,215000.0
+Capital,Mendoza,388.0,219.0,4.0,6.0,200000.0
+Capital,Mendoza,500.0,100.0,2.0,1.0,85000.0
+Capital,Mendoza,700.0,400.0,4.0,4.0,500000.0
+Capital,Mendoza,1000.0,240.0,3.0,3.0,180000.0
+Capital,Mendoza,165.0,252.0,3.0,5.0,165000.0
+Capital,Mendoza,117.0,112.0,3.0,3.0,89000.0
+Capital,Mendoza,120.0,100.0,3.0,3.0,170000.0
+Capital,Mendoza,600.0,200.0,3.0,3.0,200000.0
+Capital,Mendoza,500.0,294.0,4.0,3.0,160000.0
+Capital,Mendoza,577.0,230.0,3.0,3.0,220000.0
+Capital,Mendoza,500.0,187.0,3.0,3.0,149000.0
+Capital,Mendoza,382.0,240.0,4.0,4.0,340000.0
+Capital,Mendoza,600.0,285.0,3.0,2.0,250000.0
+Capital,Mendoza,240.0,140.0,3.0,3.0,170000.0
+Capital,Mendoza,323.0,115.0,2.0,5.0,39300.0
+Capital,Mendoza,300.0,210.0,3.0,4.0,270000.0
+Capital,Mendoza,790.0,270.0,3.0,4.0,285000.0
+Capital,Mendoza,202.0,145.0,2.0,3.0,70000.0
+Capital,Mendoza,530.0,340.0,3.0,3.0,450000.0
+Capital,Mendoza,180.0,179.0,3.0,4.0,75000.0
+Capital,Mendoza,500.0,180.0,3.0,3.0,155000.0
+Capital,Mendoza,300.0,180.0,2.0,3.0,240000.0
+Capital,Mendoza,360.0,200.0,2.0,2.0,145000.0
+Capital,Mendoza,1100.0,280.0,3.0,4.0,310000.0
+Capital,Mendoza,188.0,150.0,3.0,3.0,120000.0
+Capital,Mendoza,350.0,220.0,3.0,3.0,250000.0
+Capital,Mendoza,500.0,205.0,3.0,3.0,185000.0
+Capital,Mendoza,500.0,175.0,2.0,3.0,169000.0
+Capital,Mendoza,1100.0,230.0,3.0,4.0,280000.0
+Capital,Mendoza,500.0,237.0,3.0,3.0,235000.0
+Capital,Mendoza,314.0,206.0,4.0,6.0,195000.0
+Capital,Mendoza,600.0,250.0,5.0,5.0,300000.0
+Capital,Mendoza,600.0,340.0,3.0,5.0,360000.0
+Capital,Mendoza,153.0,153.0,1.0,3.0,85000.0
+Capital,Mendoza,600.0,330.0,5.0,4.0,290000.0
+Capital,Mendoza,390.0,360.0,3.0,4.0,239000.0
+Capital,Mendoza,360.0,160.0,2.0,5.0,89000.0
+Capital,Mendoza,400.0,280.0,3.0,3.0,220000.0
+Capital,Mendoza,500.0,495.0,5.0,3.0,580000.0
+Capital,Mendoza,600.0,340.0,3.0,4.0,380000.0
+Capital,Mendoza,223.0,285.0,3.0,4.0,190000.0
+Capital,Mendoza,180.0,175.0,2.0,3.0,139000.0
+Capital,Mendoza,350.0,220.0,3.0,3.0,250000.0
+Capital,Mendoza,1800.0,500.0,5.0,3.0,600000.0
+Capital,Mendoza,897.0,465.0,4.0,3.0,370000.0
+Capital,Mendoza,650.0,138.0,2.0,3.0,100000.0
+Capital,Mendoza,300.0,230.0,3.0,4.0,240000.0
+Capital,Mendoza,600.0,200.0,2.0,3.0,219000.0
+Capital,Mendoza,250.0,200.0,3.0,3.0,100000.0
+Capital,Mendoza,193.0,217.0,2.0,4.0,70000.0
+Capital,Mendoza,210.0,165.0,3.0,3.0,150000.0
+Capital,Mendoza,484.0,281.0,2.0,4.0,190000.0
+Capital,Mendoza,400.0,290.0,2.0,4.0,150000.0
+Capital,Mendoza,165.0,160.0,2.0,4.0,135000.0
+Capital,Mendoza,1000.0,620.0,5.0,6.0,490000.0
+Capital,Mendoza,220.0,240.0,3.0,3.0,170000.0
+Capital,Mendoza,125.0,166.0,2.0,3.0,95000.0
+Capital,Mendoza,175.0,140.0,2.0,2.0,110000.0
+Capital,Mendoza,300.0,168.0,2.0,3.0,230000.0
+Capital,Mendoza,1800.0,600.0,6.0,4.0,1000000.0
+Capital,Mendoza,600.0,165.0,4.0,4.0,230000.0
+Capital,Mendoza,200.0,147.0,2.0,3.0,80000.0
+Capital,Mendoza,300.0,240.0,3.0,3.0,250000.0
+Capital,Mendoza,277.0,126.0,2.0,3.0,110000.0
+Capital,Mendoza,275.0,287.0,3.0,3.0,170000.0
+Capital,Mendoza,360.0,280.0,3.0,3.0,250000.0
+Capital,Mendoza,150.0,148.0,3.0,4.0,110000.0
+Capital,Mendoza,300.0,160.0,2.0,3.0,248000.0
+Capital,Mendoza,450.0,350.0,3.0,4.0,380000.0
+Capital,Mendoza,300.0,153.0,1.0,2.0,129000.0
+Capital,Mendoza,80.0,80.0,2.0,2.0,70000.0
+Capital,Mendoza,720.0,420.0,6.0,3.0,550000.0
+Capital,Mendoza,300.0,202.0,4.0,4.0,265000.0
+Capital,Mendoza,150.0,230.0,3.0,4.0,135000.0
+Capital,Mendoza,646.0,178.0,2.0,4.0,73000.0
+Capital,Mendoza,881.0,436.0,5.0,4.0,550000.0
+Capital,Mendoza,330.0,260.0,3.0,6.0,89000.0
+Capital,Mendoza,450.0,260.0,3.0,4.0,358000.0
+Capital,Mendoza,230.0,450.0,3.0,4.0,330000.0
+Capital,Mendoza,94.0,65.0,1.0,2.0,38000.0
+Capital,Mendoza,179.0,176.0,2.0,4.0,81500.0
+Capital,Mendoza,600.0,300.0,4.0,3.0,315000.0
+Capital,Mendoza,129.0,116.0,2.0,3.0,86000.0
+Capital,Mendoza,160.0,140.0,2.0,3.0,65000.0
+Capital,Mendoza,300.0,170.0,3.0,3.0,220000.0
+Capital,Mendoza,288.0,215.0,4.0,5.0,170000.0
+Capital,Mendoza,200.0,150.0,3.0,3.0,82000.0
+Capital,Mendoza,300.0,150.0,3.0,3.0,240000.0
+Capital,Mendoza,300.0,280.0,4.0,4.0,230000.0
+Capital,Mendoza,300.0,215.0,3.0,3.0,220000.0
+Capital,Mendoza,704.0,402.0,5.0,4.0,172000.0
+Capital,Mendoza,338.0,123.0,1.0,3.0,65001.0
+Capital,Mendoza,900.0,380.0,3.0,4.0,240000.0
+Capital,Mendoza,158.0,240.0,2.0,4.0,138000.0
+Capital,Mendoza,238.0,243.0,3.0,3.0,250000.0
+Capital,Mendoza,720.0,370.0,4.0,3.0,550000.0
+Capital,Mendoza,275.0,150.0,2.0,3.0,110000.0
+Capital,Mendoza,500.0,250.0,3.0,2.0,260000.0
+Capital,Mendoza,180.0,240.0,3.0,4.0,170000.0
+Capital,Mendoza,134.0,157.0,2.0,3.0,110000.0
+Capital,Mendoza,600.0,385.0,5.0,4.0,290000.0
+Capital,Mendoza,219.0,220.0,1.0,6.0,170000.0
+Capital,Mendoza,148.0,200.0,2.0,3.0,120000.0
+Capital,Mendoza,500.0,400.0,4.0,6.0,350000.0
+Capital,Mendoza,250.0,180.0,2.0,3.0,115000.0
+Capital,Mendoza,350.0,250.0,3.0,4.0,295000.0
+Capital,Mendoza,330.0,115.0,1.0,1.0,150000.0
+Capital,Mendoza,190.0,110.0,2.0,3.0,80000.0
+Capital,Mendoza,449.0,285.0,3.0,3.0,285000.0
+Capital,Mendoza,175.0,130.0,3.0,4.0,165000.0
+Capital,Mendoza,120.0,88.0,2.0,4.0,88500.0
+Capital,Mendoza,294.0,241.0,4.0,3.0,200000.0
+Capital,Mendoza,342.0,188.0,3.0,3.0,255000.0
+Capital,Mendoza,200.0,170.0,2.0,3.0,85000.0
+Capital,Mendoza,300.0,230.0,3.0,4.0,280000.0
+Capital,Mendoza,200.0,320.0,3.0,4.0,250000.0
+Capital,Mendoza,300.0,240.0,3.0,4.0,229000.0
+Capital,Mendoza,210.0,165.0,2.0,3.0,150000.0
+Capital,Mendoza,370.0,299.0,4.0,3.0,200000.0
+Capital,Mendoza,1200.0,295.0,3.0,3.0,550000.0
+Capital,Mendoza,200.0,130.0,2.0,3.0,110000.0
+Capital,Mendoza,450.0,300.0,5.0,5.0,300000.0
+Capital,Mendoza,120.0,100.0,3.0,3.0,185000.0
+Capital,Mendoza,311.0,156.0,3.0,4.0,95000.0
+Capital,Mendoza,160.0,127.0,2.0,4.0,56000.0
+Capital,Mendoza,273.0,202.0,3.0,4.0,219900.0
+Capital,Mendoza,500.0,460.0,5.0,4.0,515000.0
+Capital,Mendoza,800.0,400.0,5.0,4.0,350000.0
+Capital,Mendoza,110.0,100.0,2.0,3.0,90000.0
+Capital,Mendoza,200.0,181.0,2.0,4.0,75000.0
+Capital,Mendoza,210.0,206.0,3.0,3.0,180000.0
+Capital,Mendoza,175.0,147.0,2.0,4.0,159000.0
+Capital,Mendoza,140.0,115.0,2.0,3.0,90000.0
+Capital,Mendoza,275.0,188.0,4.0,3.0,128000.0
+Capital,Mendoza,450.0,230.0,3.0,3.0,230000.0
+Capital,Mendoza,174.0,177.0,2.0,4.0,100000.0
+Capital,Mendoza,346.0,310.0,3.0,5.0,230000.0
+Capital,Mendoza,213.0,196.0,3.0,5.0,180000.0
+Capital,Mendoza,396.0,292.0,4.0,4.0,95000.0
+Capital,Mendoza,358.0,190.0,4.0,5.0,115000.0
+Capital,Mendoza,300.0,210.0,3.0,3.0,240000.0
+Capital,Mendoza,222.0,129.0,1.0,3.0,89000.0
+Capital,Mendoza,400.0,400.0,3.0,4.0,290000.0
+Capital,Mendoza,170.0,131.0,2.0,3.0,72000.0
+Capital,Mendoza,170.0,160.0,2.0,6.0,78000.0
+Capital,Mendoza,127.0,197.0,3.0,3.0,298000.0
+Capital,Mendoza,260.0,146.0,2.0,3.0,110000.0
+Capital,Mendoza,150.0,90.0,1.0,3.0,80000.0
+Capital,Mendoza,266.0,300.0,4.0,5.0,140000.0
+Capital,Mendoza,324.0,251.0,4.0,5.0,170000.0
+Capital,Mendoza,1200.0,800.0,3.0,3.0,1200000.0
+Capital,Mendoza,600.0,336.0,5.0,4.0,380000.0
+Capital,Mendoza,300.0,180.0,2.0,2.0,210000.0
+Capital,Mendoza,529.0,280.0,3.0,3.0,340000.0
+Capital,Mendoza,700.0,350.0,3.0,3.0,400000.0
+Capital,Mendoza,135.0,130.0,2.0,3.0,99000.0
+Capital,Mendoza,317.0,400.0,5.0,5.0,520000.0
+Capital,Mendoza,90.0,90.0,1.0,3.0,75000.0
+Capital,Mendoza,450.0,295.0,4.0,4.0,355000.0
+Capital,Mendoza,400.0,250.0,3.0,4.0,380000.0
+Capital,Mendoza,182.0,189.0,3.0,4.0,170000.0
+Capital,Mendoza,700.0,400.0,3.0,4.0,250000.0
+Capital,Mendoza,573.0,200.0,3.0,3.0,250000.0
+Capital,Mendoza,600.0,370.0,4.0,4.0,600000.0
+Capital,Mendoza,330.0,220.0,2.0,3.0,95000.0
+Capital,Mendoza,165.0,160.0,3.0,4.0,130000.0
+Capital,Mendoza,312.0,296.0,5.0,6.0,170000.0
+Capital,Mendoza,282.0,270.0,3.0,4.0,220000.0
+Capital,Mendoza,1317.0,275.0,3.0,3.0,450000.0
+Capital,Mendoza,253.0,165.0,3.0,4.0,135000.0
+Capital,Mendoza,240.0,207.0,3.0,4.0,140000.0
+Capital,Mendoza,400.0,220.0,3.0,3.0,240000.0
+Capital,Mendoza,400.0,230.0,2.0,3.0,220000.0
+Capital,Mendoza,230.0,190.0,2.0,2.0,195000.0
+Capital,Mendoza,360.0,380.0,4.0,3.0,245000.0
+Capital,Mendoza,410.0,370.0,4.0,4.0,270000.0
+Capital,Mendoza,258.0,248.0,2.0,3.0,155000.0
+Capital,Mendoza,342.0,247.0,4.0,3.0,170000.0
+Capital,Mendoza,270.0,220.0,2.0,2.0,65000.0
+Capital,Mendoza,163.0,288.0,5.0,3.0,200000.0
+Capital,Mendoza,179.0,178.0,2.0,4.0,85000.0
+Capital,Mendoza,300.0,180.0,3.0,3.0,230000.0
+Capital,Mendoza,900.0,320.0,4.0,3.0,270000.0
+Capital,Mendoza,385.0,206.0,3.0,4.0,200000.0
+Capital,Mendoza,500.0,250.0,2.0,3.0,150000.0
+Capital,Mendoza,317.0,172.0,2.0,4.0,90000.0
+Capital,Mendoza,370.0,220.0,3.0,3.0,270000.0
+Capital,Mendoza,600.0,340.0,3.0,3.0,380000.0
+Capital,Mendoza,93.0,86.0,1.0,2.0,50000.0
+Capital,Mendoza,500.0,390.0,4.0,5.0,350000.0
+Capital,Mendoza,95.0,90.0,2.0,3.0,67000.0
+Capital,Mendoza,2400.0,840.0,6.0,5.0,500000.0
+Capital,Mendoza,225.0,97.0,2.0,1.0,185000.0
+Capital,Mendoza,220.0,216.0,1.0,3.0,70000.0
+Capital,Mendoza,300.0,130.0,2.0,3.0,170000.0
+Capital,Mendoza,190.0,237.0,3.0,5.0,119000.0
+Capital,Mendoza,355.0,230.0,3.0,4.0,89000.0
+Capital,Mendoza,750.0,490.0,5.0,6.0,580000.0
+Capital,Mendoza,550.0,480.0,4.0,3.0,380000.0
+Capital,Mendoza,330.0,230.0,3.0,4.0,210000.0
+Capital,Mendoza,384.0,210.0,2.0,3.0,249990.0
+Capital,Mendoza,520.0,159.0,2.0,3.0,165000.0
+Capital,Mendoza,700.0,350.0,4.0,4.0,340000.0
+Capital,Mendoza,300.0,235.0,4.0,4.0,250000.0
+Capital,Mendoza,500.0,340.0,5.0,3.0,330000.0
+Capital,Mendoza,220.0,400.0,3.0,4.0,210000.0
+Capital,Mendoza,440.0,330.0,5.0,4.0,500000.0
+Capital,Mendoza,160.0,520.0,3.0,3.0,190000.0
+Capital,Mendoza,100.0,150.0,3.0,4.0,147000.0
+Capital,Mendoza,215.0,210.0,3.0,4.0,190000.0
+Capital,Mendoza,318.0,147.0,2.0,4.0,82000.0
+Capital,Mendoza,317.0,206.0,4.0,5.0,198000.0
+Capital,Mendoza,230.0,200.0,3.0,3.0,170000.0
+Capital,Mendoza,720.0,360.0,5.0,3.0,550000.0
+Capital,Mendoza,320.0,221.0,2.0,3.0,150000.0
+Capital,Mendoza,300.0,154.0,3.0,3.0,175000.0
+Capital,Mendoza,300.0,170.0,2.0,3.0,180000.0
+Capital,Mendoza,1200.0,340.0,4.0,3.0,680000.0
+Capital,Mendoza,300.0,220.0,3.0,3.0,230000.0
+Capital,Mendoza,450.0,210.0,2.0,3.0,250000.0
+Capital,Mendoza,410.0,334.0,4.0,4.0,270000.0
+Capital,Mendoza,350.0,220.0,3.0,3.0,295000.0
+Capital,Mendoza,450.0,270.0,3.0,3.0,340000.0
+Capital,Mendoza,196.0,188.0,1.0,3.0,50000.0
+Capital,Mendoza,129.0,119.0,3.0,3.0,55000.0
+Capital,Mendoza,100.0,135.0,2.0,3.0,88000.0
+Capital,Mendoza,100.0,90.0,2.0,2.0,49990.0
+Capital,Mendoza,220.0,180.0,2.0,3.0,95000.0
+Capital,Mendoza,98.0,141.0,2.0,4.0,110000.0
+Capital,Mendoza,300.0,202.0,3.0,3.0,260000.0
+Capital,Mendoza,300.0,250.0,3.0,3.0,260000.0
+Capital,Mendoza,600.0,280.0,3.0,3.0,260000.0
+Capital,Mendoza,300.0,250.0,3.0,4.0,335000.0
+Capital,Mendoza,642.0,642.0,2.0,6.0,120000.0
+Capital,Mendoza,533.0,455.0,5.0,5.0,250000.0
+Capital,Mendoza,750.0,500.0,6.0,6.0,580000.0
+Capital,Mendoza,300.0,253.0,3.0,4.0,180000.0
+Capital,Mendoza,300.0,150.0,3.0,2.0,220000.0
+Capital,Mendoza,180.0,183.0,2.0,3.0,115000.0
+Capital,Mendoza,300.0,212.0,3.0,3.0,280000.0
+Capital,Mendoza,400.0,230.0,3.0,4.0,210000.0
+Capital,Mendoza,300.0,160.0,3.0,3.0,220000.0
+Capital,Mendoza,380.0,240.0,3.0,4.0,240000.0
+Capital,Mendoza,450.0,210.0,2.0,3.0,220000.0
+Capital,Mendoza,300.0,217.0,3.0,3.0,298000.0
+Capital,Mendoza,224.0,224.0,3.0,5.0,120000.0
+Capital,Mendoza,300.0,212.0,3.0,3.0,285000.0
+Capital,Mendoza,600.0,170.0,2.0,2.0,290000.0
+Capital,Mendoza,120.0,105.0,2.0,2.0,120000.0
+Capital,Mendoza,351.0,226.0,2.0,4.0,65000.0
+Capital,Mendoza,530.0,305.0,4.0,4.0,440000.0
+Capital,Mendoza,700.0,490.0,5.0,5.0,250000.0
+Capital,Mendoza,168.0,116.0,1.0,3.0,55000.0
+Capital,Mendoza,300.0,220.0,3.0,4.0,340000.0
+Capital,Mendoza,140.0,130.0,2.0,3.0,115000.0
+Capital,Mendoza,930.0,550.0,5.0,5.0,1200000.0
+Capital,Mendoza,600.0,330.0,4.0,5.0,350000.0
+Capital,Mendoza,412.0,270.0,3.0,4.0,160000.0
+Capital,Mendoza,134.0,101.0,1.0,2.0,52000.0
+Capital,Mendoza,280.0,280.0,3.0,3.0,163000.0
+Capital,Mendoza,300.0,190.0,3.0,3.0,228000.0
+Capital,Mendoza,500.0,350.0,4.0,4.0,350000.0
+Capital,Mendoza,369.0,255.0,3.0,3.0,280000.0
+Capital,Mendoza,110.0,140.0,3.0,4.0,98000.0
+Capital,Mendoza,337.0,300.0,4.0,5.0,270000.0
+Capital,Mendoza,300.0,192.0,2.0,3.0,140000.0
+Capital,Mendoza,450.0,330.0,5.0,6.0,315000.0
+Capital,Mendoza,450.0,285.0,3.0,3.0,285000.0
+Capital,Mendoza,600.0,260.0,3.0,5.0,320000.0
+Capital,Mendoza,1300.0,530.0,6.0,6.0,600000.0
+Capital,Mendoza,500.0,256.0,4.0,6.0,210000.0
+Capital,Mendoza,450.0,165.0,3.0,4.0,185000.0
+Capital,Mendoza,271.0,194.0,3.0,3.0,100000.0
+Capital,Mendoza,527.0,205.0,2.0,3.0,76500.0
+Capital,Mendoza,350.0,193.0,3.0,3.0,119000.0
+Capital,Mendoza,450.0,230.0,3.0,5.0,155000.0
+Capital,Mendoza,180.0,120.0,3.0,2.0,240000.0
+Capital,Mendoza,209.0,118.0,2.0,3.0,65000.0
+Capital,Mendoza,600.0,570.0,2.0,3.0,390000.0
+Capital,Mendoza,210.0,196.0,1.0,3.0,210000.0
+Capital,Mendoza,225.0,168.0,3.0,3.0,95000.0
+Capital,Mendoza,200.0,320.0,3.0,3.0,175000.0
+Capital,Mendoza,226.0,160.0,2.0,3.0,115000.0
+Capital,Mendoza,260.0,330.0,3.0,4.0,300000.0
+Capital,Mendoza,300.0,195.0,3.0,4.0,155000.0
+Capital,Mendoza,720.0,380.0,6.0,3.0,500000.0
+Capital,Mendoza,600.0,220.0,3.0,5.0,230000.0
+Capital,Mendoza,420.0,240.0,3.0,3.0,245000.0
+Capital,Mendoza,110.0,100.0,2.0,2.0,105000.0
+Capital,Mendoza,430.0,360.0,4.0,3.0,240000.0
+Capital,Mendoza,255.0,246.0,4.0,3.0,125000.0
+Capital,Mendoza,363.0,275.0,3.0,5.0,260000.0
+Capital,Mendoza,210.0,116.0,1.0,3.0,78000.0
+Capital,Mendoza,530.0,311.0,4.0,4.0,440000.0
+Capital,Mendoza,184.0,160.0,2.0,3.0,235000.0
+Capital,Mendoza,250.0,300.0,3.0,3.0,280000.0
+Capital,Mendoza,300.0,250.0,3.0,3.0,280000.0
+Capital,Mendoza,890.0,600.0,4.0,5.0,450000.0
+Capital,Mendoza,596.0,308.0,4.0,4.0,340000.0
+Capital,Mendoza,300.0,170.0,2.0,2.0,290000.0
+Capital,Mendoza,250.0,280.0,2.0,4.0,110000.0
+Capital,Mendoza,200.0,170.0,2.0,2.0,55000.0
+Capital,Mendoza,102.0,76.0,1.0,3.0,36000.0
+Capital,Mendoza,150.0,250.0,3.0,4.0,200000.0
+Capital,Mendoza,330.0,90.0,3.0,2.0,55000.0
+Capital,Mendoza,104.0,175.0,2.0,3.0,64000.0
+Capital,Mendoza,143.0,189.0,3.0,4.0,155000.0
+Capital,Mendoza,290.0,191.0,2.0,4.0,106000.0
+Capital,Mendoza,300.0,210.0,3.0,3.0,285000.0
+Capital,Mendoza,360.0,320.0,3.0,4.0,280000.0
+Capital,Mendoza,454.0,182.0,1.0,3.0,132000.0
+Capital,Mendoza,357.0,265.0,3.0,3.0,360000.0
+Capital,Mendoza,315.0,330.0,4.0,6.0,500000.0
+Capital,Mendoza,530.0,330.0,5.0,3.0,330000.0
+Capital,Mendoza,200.0,150.0,2.0,3.0,100000.0
+Capital,Mendoza,300.0,215.0,3.0,3.0,250000.0
+Capital,Mendoza,400.0,400.0,4.0,5.0,900000.0
+Capital,Mendoza,100.0,92.0,2.0,3.0,45000.0
+Capital,Mendoza,98.0,98.0,1.0,3.0,69000.0
+Capital,Mendoza,274.0,210.0,3.0,3.0,95000.0
+Capital,Mendoza,419.0,419.0,3.0,4.0,260000.0
+Capital,Mendoza,280.0,280.0,1.0,3.0,116000.0
+Capital,Mendoza,220.0,155.0,2.0,4.0,78000.0
+Capital,Mendoza,150.0,100.0,1.0,3.0,150000.0
+Capital,Mendoza,660.0,299.0,4.0,3.0,260000.0
+Capital,Mendoza,95.0,195.0,2.0,3.0,82000.0
+Capital,Mendoza,350.0,250.0,3.0,4.0,340000.0
+Capital,Mendoza,144.0,120.0,2.0,2.0,45000.0
+Capital,Mendoza,1050.0,450.0,4.0,4.0,315000.0
+Capital,Mendoza,500.0,215.0,4.0,4.0,178000.0
+Capital,Mendoza,300.0,160.0,2.0,3.0,240000.0
+Capital,Mendoza,500.0,320.0,4.0,3.0,230000.0
+Capital,Mendoza,142.0,90.0,2.0,2.0,80000.0
+Capital,Mendoza,410.0,320.0,4.0,6.0,270000.0
+Capital,Mendoza,670.0,325.0,2.0,7.0,350000.0
+Capital,Mendoza,300.0,200.0,2.0,2.0,300000.0
+Capital,Mendoza,362.0,256.0,3.0,2.0,360000.0
+Capital,Mendoza,190.0,250.0,4.0,4.0,130000.0
+Capital,Mendoza,569.0,312.0,4.0,5.0,160000.0
+Capital,Mendoza,450.0,295.0,4.0,4.0,355000.0
+Capital,Mendoza,460.0,380.0,3.0,4.0,245000.0
+Capital,Mendoza,320.0,300.0,5.0,4.0,285000.0
+Capital,Mendoza,330.0,300.0,3.0,3.0,350000.0
+Capital,Mendoza,220.0,200.0,4.0,4.0,127000.0
+Capital,Mendoza,400.0,400.0,3.0,5.0,175000.0
+Capital,Mendoza,230.0,168.0,2.0,3.0,130000.0
+Capital,Mendoza,98.0,141.0,2.0,4.0,110000.0
+Capital,Mendoza,140.0,230.0,3.0,4.0,75000.0
+Capital,Mendoza,180.0,180.0,3.0,5.0,69900.0
+Capital,Mendoza,176.0,132.0,2.0,3.0,53000.0
+Capital,Mendoza,410.0,200.0,1.0,4.0,48000.0
+Capital,Mendoza,178.0,94.0,1.0,3.0,72000.0
+Capital,Mendoza,550.0,212.0,3.0,3.0,280000.0
+Capital,Mendoza,173.0,128.0,3.0,3.0,130000.0
+Capital,Mendoza,596.0,308.0,4.0,4.0,340000.0
+Capital,Mendoza,183.0,183.0,2.0,4.0,105000.0
+Capital,Mendoza,600.0,220.0,3.0,4.0,240000.0
+Capital,Mendoza,385.0,310.0,5.0,9.0,110000.0
+Capital,Mendoza,110.0,86.0,1.0,3.0,36000.0
+Capital,Mendoza,266.0,266.0,2.0,3.0,118000.0
+Capital,Mendoza,500.0,450.0,5.0,3.0,330000.0
+Capital,Mendoza,900.0,534.0,4.0,4.0,530000.0
+Capital,Mendoza,345.0,181.0,2.0,3.0,85000.0
+Capital,Mendoza,305.0,263.0,2.0,4.0,99500.0
+Capital,Mendoza,320.0,260.0,3.0,3.0,210000.0
+Capital,Mendoza,300.0,220.0,3.0,3.0,270000.0
+Capital,Mendoza,116.0,85.0,1.0,2.0,47500.0
+Capital,Mendoza,300.0,210.0,3.0,4.0,250000.0
+Capital,Mendoza,500.0,450.0,5.0,3.0,330000.0
+Capital,Mendoza,140.0,76.0,1.0,1.0,75000.0
+Capital,Mendoza,222.0,207.0,3.0,3.0,230000.0
+Capital,Mendoza,300.0,210.0,3.0,4.0,265000.0
+Capital,Mendoza,450.0,240.0,3.0,4.0,315000.0
+Capital,Mendoza,300.0,195.0,3.0,3.0,260000.0
+Capital,Mendoza,600.0,300.0,4.0,3.0,340000.0
+Capital,Mendoza,210.0,206.0,3.0,4.0,150000.0
+Capital,Mendoza,277.0,255.0,3.0,4.0,90000.0
+Capital,Mendoza,285.0,278.0,4.0,6.0,180000.0
+Capital,Mendoza,699.0,379.0,5.0,6.0,430000.0
+Capital,Mendoza,300.0,350.0,4.0,4.0,240000.0
+Capital,Mendoza,300.0,180.0,2.0,2.0,210000.0
+Capital,Mendoza,300.0,220.0,1.0,3.0,270000.0
+Capital,Mendoza,300.0,160.0,2.0,3.0,240000.0
+Capital,Mendoza,215.0,125.0,1.0,2.0,75000.0
+Capital,Mendoza,90.0,78.0,2.0,2.0,40000.0
+Capital,Mendoza,174.0,168.0,3.0,3.0,58000.0
+Capital,Mendoza,205.0,160.0,2.0,3.0,55000.0
+Capital,Mendoza,160.0,130.0,1.0,2.0,59000.0
+Capital,Mendoza,126.0,100.0,1.0,2.0,43000.0
+Capital,Mendoza,189.0,169.0,3.0,4.0,140000.0
+Capital,Mendoza,139.0,130.0,2.0,2.0,75000.0
+Capital,Mendoza,214.0,290.0,4.0,3.0,149000.0
+Capital,Mendoza,118.0,86.0,1.0,2.0,69000.0
+Capital,Mendoza,250.0,135.0,2.0,3.0,70000.0
+Capital,Mendoza,118.0,118.0,1.0,3.0,85000.0
+Capital,Mendoza,158.0,133.0,2.0,3.0,72000.0
+Capital,Mendoza,209.0,209.0,1.0,3.0,155000.0
+Capital,Mendoza,180.0,180.0,1.0,2.0,65000.0
+Capital,Mendoza,320.0,300.0,6.0,8.0,330000.0
+Capital,Mendoza,700.0,453.0,5.0,4.0,600000.0
+Capital,Mendoza,300.0,211.0,2.0,3.0,210000.0
+Capital,Mendoza,301.0,253.0,3.0,5.0,140000.0
+Capital,Mendoza,100.0,89.0,1.0,3.0,40000.0
+Capital,Mendoza,172.0,128.0,2.0,2.0,55000.0
+Capital,Mendoza,370.0,332.0,2.0,4.0,195000.0
+Capital,Mendoza,418.0,232.0,3.0,4.0,235000.0
+Capital,Mendoza,448.0,198.0,3.0,1.0,95000.0
+Capital,Mendoza,317.0,400.0,5.0,5.0,430000.0
+Capital,Mendoza,1461.0,670.0,5.0,5.0,1200000.0
+Capital,Mendoza,328.0,124.0,1.0,3.0,100000.0
+Capital,Mendoza,119.0,84.0,1.0,2.0,37000.0
+Capital,Mendoza,517.0,253.0,3.0,4.0,285000.0
+Capital,Mendoza,129.0,118.0,2.0,3.0,65000.0
+Capital,Mendoza,380.0,300.0,5.0,5.0,85000.0
+Capital,Mendoza,275.0,280.0,2.0,3.0,135000.0
+Capital,Mendoza,165.0,160.0,3.0,4.0,140000.0
+Capital,Mendoza,250.0,250.0,2.0,4.0,106000.0
+Capital,Mendoza,230.0,230.0,3.0,6.0,120000.0
+Capital,Mendoza,455.0,450.0,1.0,1.0,300000.0
+Capital,Mendoza,365.0,67.0,1.0,1.0,180000.0
+Capital,Mendoza,280.0,200.0,2.0,4.0,133000.0
+Capital,Mendoza,250.0,240.0,3.0,4.0,160000.0
+Capital,Mendoza,400.0,190.0,4.0,4.0,150000.0
+Capital,Mendoza,280.0,85.0,1.0,2.0,40000.0
+Capital,Mendoza,500.0,280.0,3.0,4.0,210000.0
+Capital,Mendoza,108.0,103.0,1.0,2.0,45000.0
+Capital,Mendoza,167.0,132.0,2.0,2.0,50000.0
+Capital,Mendoza,220.0,230.0,2.0,3.0,170000.0
+Capital,Mendoza,589.0,210.0,2.0,3.0,200000.0
+Capital,Mendoza,372.0,450.0,1.0,9.0,210000.0
+Capital,Mendoza,250.0,185.0,2.0,4.0,135000.0
+Capital,Mendoza,280.0,300.0,2.0,3.0,90000.0
+Capital,Mendoza,125.0,140.0,2.0,3.0,80000.0
+Capital,Mendoza,250.0,339.0,4.0,5.0,145000.0
+Capital,Mendoza,290.0,285.0,5.0,6.0,180000.0
+Capital,Mendoza,175.0,150.0,2.0,3.0,110000.0
+Capital,Mendoza,732.0,350.0,2.0,4.0,320000.0
+Capital,Mendoza,100.0,160.0,2.0,4.0,95000.0
+Capital,Mendoza,260.0,200.0,3.0,3.0,200000.0
+Capital,Mendoza,600.0,300.0,4.0,5.0,275000.0
+Capital,Mendoza,577.0,550.0,4.0,4.0,550000.0
+Capital,Mendoza,198.0,198.0,2.0,3.0,75000.0
+Capital,Mendoza,650.0,350.0,3.0,3.0,500000.0
+Capital,Mendoza,116.0,105.0,2.0,2.0,43000.0
+Capital,Mendoza,380.0,280.0,3.0,2.0,330000.0
+Capital,Mendoza,100.0,150.0,2.0,4.0,150000.0
+Capital,Mendoza,160.0,60.0,1.0,1.0,80000.0
+Capital,Mendoza,1040.0,490.0,6.0,6.0,498000.0
+Capital,Mendoza,250.0,240.0,3.0,4.0,195000.0
+Capital,Mendoza,200.0,200.0,3.0,3.0,260000.0
+Capital,Mendoza,630.0,400.0,3.0,1.0,450000.0
+Capital,Mendoza,365.0,260.0,4.0,4.0,265000.0
+Capital,Mendoza,363.0,253.0,2.0,3.0,110000.0
+Capital,Mendoza,900.0,300.0,4.0,3.0,290000.0
+Capital,Mendoza,400.0,220.0,3.0,4.0,230000.0
+Capital,Mendoza,140.0,180.0,2.0,5.0,120000.0
+Capital,Mendoza,280.0,167.0,2.0,2.0,130000.0
+Capital,Mendoza,1090.0,300.0,2.0,3.0,380000.0
+Capital,Mendoza,600.0,380.0,3.0,4.0,350000.0
+Capital,Mendoza,300.0,190.0,2.0,3.0,275000.0
+Capital,Mendoza,300.0,200.0,2.0,4.0,240000.0
+Capital,Mendoza,417.0,200.0,1.0,3.0,110000.0
+Capital,Mendoza,305.0,220.0,3.0,3.0,220000.0
+Capital,Mendoza,500.0,380.0,5.0,5.0,350000.0
+Capital,Mendoza,300.0,220.0,4.0,4.0,310000.0
+Capital,Mendoza,300.0,160.0,2.0,3.0,248000.0
+Capital,Mendoza,300.0,265.0,5.0,4.0,210000.0
+Capital,Mendoza,285.0,180.0,2.0,8.0,240000.0
+Capital,Mendoza,600.0,330.0,3.0,5.0,285000.0
+Capital,Mendoza,140.0,140.0,2.0,3.0,90000.0
+Capital,Mendoza,198.0,198.0,3.0,4.0,60000.0
+Capital,Mendoza,318.0,125.0,1.0,3.0,75000.0
+Capital,Mendoza,380.0,360.0,3.0,4.0,240000.0
+Capital,Mendoza,280.0,130.0,1.0,2.0,27500.0
+Capital,Mendoza,100.0,100.0,1.0,1.0,40000.0
+Capital,Mendoza,227.0,116.0,1.0,2.0,65000.0
+Capital,Mendoza,650.0,80.0,1.0,3.0,19000.0
+Capital,Mendoza,130.0,130.0,2.0,2.0,125000.0
+Capital,Mendoza,200.0,160.0,2.0,3.0,80000.0
+Capital,Mendoza,160.0,110.0,1.0,2.0,90000.0
+Capital,Mendoza,306.0,155.0,2.0,2.0,83000.0
+Capital,Mendoza,300.0,300.0,1.0,3.0,40000.0
+Capital,Salta,490.0,190.0,4.0,4.0,165000.0
+Capital,Salta,1470.0,230.0,2.0,3.0,180000.0
+Capital,Salta,390.0,170.0,2.0,2.0,135000.0
+Capital,Salta,502.0,352.0,4.0,3.0,220000.0
+Capital,Salta,1162.0,162.0,2.0,3.0,195000.0
+Capital,Salta,2250.0,250.0,3.0,5.0,295000.0
+Capital,Mendoza,200.0,240.0,1.0,2.0,110000.0
+Capital,Mendoza,271.0,130.0,2.0,3.0,44000.0
+Capital,Mendoza,144.0,120.0,2.0,2.0,43000.0
+Capital,Mendoza,250.0,180.0,1.0,4.0,60000.0
+Capital,Mendoza,220.0,192.0,2.0,3.0,120000.0
+Capital,Mendoza,160.0,190.0,4.0,6.0,110000.0
+Capital,Mendoza,252.0,243.0,4.0,4.0,140000.0
+Capital,Mendoza,311.0,155.0,3.0,4.0,95000.0
+Capital,Mendoza,325.0,265.0,2.0,4.0,86000.0
+Capital,Mendoza,304.0,168.0,3.0,3.0,157000.0
+Capital,Mendoza,73.0,65.0,2.0,2.0,69000.0
+Capital,Mendoza,131.0,176.0,2.0,3.0,50000.0
+Capital,Mendoza,210.0,150.0,2.0,3.0,78000.0
+Capital,Mendoza,130.0,92.0,2.0,3.0,55000.0
+Capital,Mendoza,170.0,200.0,2.0,3.0,32000.0
+Capital,Mendoza,170.0,120.0,2.0,2.0,64000.0
+Capital,Mendoza,300.0,158.0,2.0,3.0,80000.0
+Capital,Mendoza,120.0,100.0,1.0,3.0,50000.0
+Capital,Mendoza,120.0,220.0,3.0,3.0,76000.0
+Capital,Mendoza,320.0,235.0,3.0,3.0,130000.0
+Capital,Mendoza,200.0,99.0,1.0,3.0,55000.0
+Capital,Mendoza,198.0,110.0,1.0,3.0,49001.0
+Capital,Mendoza,243.0,100.0,1.0,3.0,28000.0
+Capital,Mendoza,102.0,80.0,1.0,1.0,38000.0
+Capital,Mendoza,275.0,268.0,2.0,4.0,79000.0
+Capital,Mendoza,450.0,270.0,3.0,4.0,250000.0
+Capital,Mendoza,250.0,120.0,2.0,3.0,58000.0
+Capital,Mendoza,100.0,65.0,1.0,2.0,39000.0
+Capital,Mendoza,143.0,123.0,2.0,3.0,105000.0
+Capital,Mendoza,234.0,133.0,2.0,4.0,110000.0
+Capital,Mendoza,396.0,140.0,3.0,4.0,70000.0
+Capital,Mendoza,300.0,190.0,3.0,3.0,145000.0
+Capital,Mendoza,100.0,80.0,1.0,2.0,39000.0
+Capital,Mendoza,270.0,160.0,2.0,3.0,64000.0
+Capital,Mendoza,88.0,88.0,2.0,3.0,45000.0
+Capital,Mendoza,300.0,220.0,2.0,3.0,84000.0
+Capital,Mendoza,181.0,129.0,1.0,3.0,47000.0
+Capital,Mendoza,537.0,170.0,2.0,2.0,115000.0
+Capital,Mendoza,300.0,160.0,1.0,2.0,50000.0
+Capital,Mendoza,283.0,216.0,3.0,4.0,155000.0
+Capital,Mendoza,180.0,175.0,1.0,2.0,35000.0
+Capital,Mendoza,170.0,120.0,1.0,2.0,39500.0
+Capital,Mendoza,190.0,146.0,1.0,2.0,36000.0
